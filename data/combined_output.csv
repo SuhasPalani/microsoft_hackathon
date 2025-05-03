@@ -1,0 +1,431 @@
+product_id,product_category,product_subcategory,price,listprice,discountprice,supplier,product_availability,eta,order_placement,customer_name,time_of_order,location,quantity,payment_method,carrier,tracking_number,shipment_date,estimated_delivery,actual_delivery,status
+ELEC-LAP-0001,Electronics,Laptops,$493.64,$514.21,$493.64,Supplier_10,Out of Stock,2025-05-04,,,,,,,,,,,,
+GROC-FRT-0001,Groceries,Fruits,$554.72,$739.63,$554.72,"Supplier_1, Supplier_2",Limited,2025-05-08,,,,,,,,,,,,
+GROC-FRT-0002,Groceries,Fruits,$955.13,"$1,326.57",$955.13,"Supplier_4, Supplier_5",Out of Stock,2025-05-15,,,,,,,,,,,,
+FURN-DSK-0001,Furniture,Desks,$430.09,$537.61,$430.09,Supplier_6,Limited,2025-05-06,,,,,,,,,,,,
+GROC-BEV-0001,Groceries,Beverages,"$1,007.08","$1,144.41","$1,007.08",Supplier_3,Limited,2025-05-10,,,,,,,,,,,,
+FURN-CHR-0001,Furniture,Chairs,"$1,137.51","$1,558.23","$1,137.51",Supplier_10,In Stock,2025-05-07,,,,,,,,,,,,
+GROC-BEV-0002,Groceries,Beverages,$336.01,$480.01,$336.01,Supplier_6,Out of Stock,2025-05-05,,,,,,,,,,,,
+APPR-SHT-0001,Apparel,Shirts,"$1,160.53","$1,196.42","$1,160.53",Supplier_10,In Stock,2025-05-04,,,,,,,,,,,,
+GROC-VEG-0001,Groceries,Vegetables,"$1,578.70","$1,594.65","$1,578.70","Supplier_8, Supplier_6",In Stock,2025-05-13,,,,,,,,,,,,
+FURN-BED-0001,Furniture,Beds,$289.49,$357.40,$289.49,Supplier_7,In Stock,2025-05-15,,,,,,,,,,,,
+FURN-CAB-0001,Furniture,Cabinets,"$1,570.06","$1,635.48","$1,570.06",Supplier_8,Limited,2025-05-16,,,,,,,,,,,,
+ELEC-SM-0001,Electronics,Smartphones,"$1,391.14","$1,717.46","$1,391.14","Supplier_8, Supplier_1",Out of Stock,2025-05-14,,,,,,,,,,,,
+GROC-FRT-0003,Groceries,Fruits,"$1,149.27","$1,336.36","$1,149.27",Supplier_9,Limited,2025-05-15,,,,,,,,,,,,
+ELEC-SM-0002,Electronics,Smartphones,$363.10,$442.81,$363.10,"Supplier_1, Supplier_5",Limited,2025-05-12,,,,,,,,,,,,
+GROC-FRT-0004,Groceries,Fruits,"$1,392.07","$1,933.43","$1,392.07","Supplier_1, Supplier_6",Out of Stock,2025-05-17,,,,,,,,,,,,
+GROC-BEV-0003,Groceries,Beverages,$357.67,$411.12,$357.67,"Supplier_3, Supplier_10",In Stock,2025-05-04,,,,,,,,,,,,
+APPR-JNS-0001,Apparel,Jeans,$459.48,$534.28,$459.48,Supplier_7,In Stock,2025-05-04,,,,,,,,,,,,
+GROC-SNK-0001,Groceries,Snacks,"$1,425.22","$1,804.08","$1,425.22",Supplier_6,In Stock,2025-05-04,,,,,,,,,,,,
+FURN-CAB-0002,Furniture,Cabinets,$797.14,$857.14,$797.14,"Supplier_3, Supplier_2",Out of Stock,2025-05-04,,,,,,,,,,,,
+ELEC-SM-0003,Electronics,Smartphones,"$1,475.56","$1,505.67","$1,475.56",Supplier_3,Limited,2025-05-13,,,,,,,,,,,,
+GROC-BEV-0004,Groceries,Beverages,$501.70,$533.72,$501.70,Supplier_8,Out of Stock,2025-05-11,,,,,,,,,,,,
+GROC-SNK-0002,Groceries,Snacks,"$1,405.88","$1,405.88","$1,405.88",Supplier_7,Limited,2025-05-12,,,,,,,,,,,,
+ELEC-LAP-0002,Electronics,Laptops,"$1,323.25","$1,556.76","$1,323.25",Supplier_7,Limited,2025-05-06,,,,,,,,,,,,
+ELEC-TAB-0001,Electronics,Tablets,"$1,659.04","$1,975.05","$1,659.04",Supplier_6,Out of Stock,2025-05-08,,,,,,,,,,,,
+GROC-BEV-0005,Groceries,Beverages,$787.19,"$1,078.34",$787.19,"Supplier_6, Supplier_10",Out of Stock,2025-05-05,,,,,,,,,,,,
+ELEC-LAP-0003,Electronics,Laptops,"$1,804.80","$1,880.00","$1,804.80","Supplier_1, Supplier_4",In Stock,2025-05-13,,,,,,,,,,,,
+FURN-CHR-0002,Furniture,Chairs,$50.51,$70.15,$50.51,Supplier_9,Out of Stock,2025-05-09,,,,,,,,,,,,
+ELEC-LAP-0004,Electronics,Laptops,"$1,077.98","$1,382.03","$1,077.98",Supplier_9,Out of Stock,2025-05-06,,,,,,,,,,,,
+FURN-CHR-0003,Furniture,Chairs,$382.85,$478.56,$382.85,Supplier_8,Out of Stock,2025-05-16,,,,,,,,,,,,
+APPR-JNS-0002,Apparel,Jeans,$545.89,$634.76,$545.89,Supplier_8,In Stock,2025-05-14,,,,,,,,,,,,
+FURN-DSK-0002,Furniture,Desks,"$1,322.80","$1,377.92","$1,322.80","Supplier_2, Supplier_3",In Stock,2025-05-12,,,,,,,,,,,,
+AUTO-BAT-0001,Automotive,Batteries,"$1,365.62","$1,796.87","$1,365.62",Supplier_5,In Stock,2025-05-06,,,,,,,,,,,,
+GROC-BEV-0006,Groceries,Beverages,"$1,119.67","$1,417.30","$1,119.67",Supplier_6,Limited,2025-05-12,,,,,,,,,,,,
+ELEC-SM-0004,Electronics,Smartphones,"$1,206.10","$1,652.19","$1,206.10",Supplier_7,Out of Stock,2025-05-14,,,,,,,,,,,,
+ELEC-SM-0005,Electronics,Smartphones,$253.59,$333.67,$253.59,Supplier_6,In Stock,2025-05-05,,,,,,,,,,,,
+AUTO-FIL-0001,Automotive,Filters,$877.69,$904.83,$877.69,Supplier_1,Limited,2025-05-08,,,,,,,,,,,,
+GROC-BEV-0007,Groceries,Beverages,$413.55,$558.85,$413.55,"Supplier_10, Supplier_4",In Stock,2025-05-11,,,,,,,,,,,,
+APPR-SHS-0001,Apparel,Shoes,$959.30,"$1,090.11",$959.30,"Supplier_9, Supplier_6",Limited,2025-05-12,,,,,,,,,,,,
+FURN-DSK-0003,Furniture,Desks,$747.59,$786.94,$747.59,"Supplier_8, Supplier_9",In Stock,2025-05-05,,,,,,,,,,,,
+AUTO-BAT-0002,Automotive,Batteries,"$1,746.23","$1,781.87","$1,746.23",Supplier_10,Limited,2025-05-15,,,,,,,,,,,,
+ELEC-CAM-0001,Electronics,Cameras,"$1,615.97","$1,970.70","$1,615.97","Supplier_6, Supplier_2",In Stock,2025-05-05,,,,,,,,,,,,
+FURN-CHR-0004,Furniture,Chairs,$418.32,$597.60,$418.32,"Supplier_6, Supplier_4",Limited,2025-05-07,,,,,,,,,,,,
+FURN-BED-0002,Furniture,Beds,$662.43,$752.76,$662.43,Supplier_6,In Stock,2025-05-05,,,,,,,,,,,,
+FURN-BED-0003,Furniture,Beds,"$1,275.81","$1,575.08","$1,275.81",Supplier_9,Out of Stock,2025-05-17,,,,,,,,,,,,
+ELEC-LAP-0005,Electronics,Laptops,$505.91,$657.02,$505.91,Supplier_8,Out of Stock,2025-05-14,,,,,,,,,,,,
+ELEC-CAM-0002,Electronics,Cameras,$843.62,$937.35,$843.62,"Supplier_2, Supplier_10",Out of Stock,2025-05-08,,,,,,,,,,,,
+ELEC-LAP-0006,Electronics,Laptops,"$1,646.42","$1,733.07","$1,646.42",Supplier_8,In Stock,2025-05-12,,,,,,,,,,,,
+FURN-CHR-0005,Furniture,Chairs,$485.94,$647.92,$485.94,"Supplier_6, Supplier_9",Limited,2025-05-07,,,,,,,,,,,,
+ELEC-CAM-0003,Electronics,Cameras,"$1,775.69","$1,849.68","$1,775.69","Supplier_6, Supplier_10",Limited,2025-05-07,,,,,,,,,,,,
+APPR-SHT-0002,Apparel,Shirts,$395.99,$399.99,$395.99,"Supplier_5, Supplier_2",In Stock,2025-05-10,,,,,,,,,,,,
+FURN-CHR-0006,Furniture,Chairs,$150.69,$153.77,$150.69,Supplier_2,Out of Stock,2025-05-08,,,,,,,,,,,,
+FURN-BED-0004,Furniture,Beds,$647.14,$911.46,$647.14,"Supplier_10, Supplier_2",Limited,2025-05-06,,,,,,,,,,,,
+ELEC-SM-0006,Electronics,Smartphones,$979.42,"$1,180.03",$979.42,"Supplier_5, Supplier_7",Limited,2025-05-12,,,,,,,,,,,,
+APPR-SHT-0003,Apparel,Shirts,"$1,366.25","$1,535.11","$1,366.25","Supplier_9, Supplier_4",Out of Stock,2025-05-09,,,,,,,,,,,,
+APPR-SHS-0002,Apparel,Shoes,$390.74,$528.03,$390.74,Supplier_5,In Stock,2025-05-15,,,,,,,,,,,,
+FURN-CAB-0003,Furniture,Cabinets,"$1,337.57","$1,832.29","$1,337.57",Supplier_7,In Stock,2025-05-06,,,,,,,,,,,,
+GROC-VEG-0002,Groceries,Vegetables,$330.01,$407.42,$330.01,"Supplier_7, Supplier_3",Out of Stock,2025-05-13,,,,,,,,,,,,
+AUTO-TIR-0001,Automotive,Tires,"$1,953.43","$1,973.16","$1,953.43","Supplier_8, Supplier_6",In Stock,2025-05-10,,,,,,,,,,,,
+AUTO-FIL-0002,Automotive,Filters,$922.24,"$1,097.90",$922.24,Supplier_3,In Stock,2025-05-14,,,,,,,,,,,,
+GROC-FRT-0005,Groceries,Fruits,"$1,046.64","$1,414.38","$1,046.64",Supplier_10,Out of Stock,2025-05-15,,,,,,,,,,,,
+AUTO-FIL-0003,Automotive,Filters,$680.63,$895.57,$680.63,"Supplier_2, Supplier_10",Out of Stock,2025-05-07,,,,,,,,,,,,
+GROC-SNK-0003,Groceries,Snacks,$408.07,$408.07,$408.07,"Supplier_6, Supplier_7",Out of Stock,2025-05-17,,,,,,,,,,,,
+AUTO-BAT-0003,Automotive,Batteries,$701.60,"$1,002.28",$701.60,"Supplier_8, Supplier_10",Limited,2025-05-07,,,,,,,,,,,,
+AUTO-OIL-0001,Automotive,Oil,$649.05,$737.56,$649.05,"Supplier_3, Supplier_9",Out of Stock,2025-05-11,,,,,,,,,,,,
+APPR-SHT-0004,Apparel,Shirts,$526.50,$642.07,$526.50,"Supplier_7, Supplier_9",In Stock,2025-05-12,,,,,,,,,,,,
+APPR-SHS-0003,Apparel,Shoes,$436.33,$501.53,$436.33,"Supplier_3, Supplier_2",Limited,2025-05-07,,,,,,,,,,,,
+ELEC-CAM-0004,Electronics,Cameras,$181.78,$199.76,$181.78,Supplier_2,Limited,2025-05-11,,,,,,,,,,,,
+GROC-SNK-0004,Groceries,Snacks,"$1,399.85","$1,866.47","$1,399.85","Supplier_4, Supplier_10",Out of Stock,2025-05-07,,,,,,,,,,,,
+ELEC-LAP-0007,Electronics,Laptops,$228.88,$257.17,$228.88,Supplier_2,Limited,2025-05-09,,,,,,,,,,,,
+GROC-VEG-0003,Groceries,Vegetables,$662.29,$712.14,$662.29,"Supplier_5, Supplier_6",Limited,2025-05-04,,,,,,,,,,,,
+GROC-SNK-0005,Groceries,Snacks,$758.10,"$1,083.00",$758.10,"Supplier_8, Supplier_7",Out of Stock,2025-05-17,,,,,,,,,,,,
+AUTO-OIL-0002,Automotive,Oil,"$1,570.51","$1,869.65","$1,570.51",Supplier_5,Limited,2025-05-13,,,,,,,,,,,,
+FURN-CHR-0007,Furniture,Chairs,$331.68,$454.35,$331.68,Supplier_3,In Stock,2025-05-12,,,,,,,,,,,,
+APPR-SHS-0004,Apparel,Shoes,$185.94,$229.55,$185.94,"Supplier_7, Supplier_1",Out of Stock,2025-05-17,,,,,,,,,,,,
+ELEC-CAM-0005,Electronics,Cameras,$504.93,$673.24,$504.93,Supplier_5,Limited,2025-05-16,,,,,,,,,,,,
+APPR-SHS-0005,Apparel,Shoes,"$1,111.78","$1,339.50","$1,111.78",Supplier_5,Out of Stock,2025-05-11,,,,,,,,,,,,
+APPR-JKT-0001,Apparel,Jackets,$572.79,$698.52,$572.79,Supplier_4,Out of Stock,2025-05-10,,,,,,,,,,,,
+APPR-SHT-0005,Apparel,Shirts,$867.24,"$1,044.87",$867.24,"Supplier_1, Supplier_3",Out of Stock,2025-05-06,,,,,,,,,,,,
+FURN-BED-0005,Furniture,Beds,"$1,260.07","$1,750.10","$1,260.07",Supplier_4,Limited,2025-05-05,,,,,,,,,,,,
+ELEC-LAP-0008,Electronics,Laptops,$188.71,$224.65,$188.71,Supplier_5,Out of Stock,2025-05-10,,,,,,,,,,,,
+APPR-SHS-0006,Apparel,Shoes,"$1,060.31","$1,116.12","$1,060.31",Supplier_10,Limited,2025-05-06,,,,,,,,,,,,
+APPR-JKT-0002,Apparel,Jackets,"$1,163.29","$1,615.68","$1,163.29",Supplier_3,Out of Stock,2025-05-14,,,,,,,,,,,,
+FURN-BED-0006,Furniture,Beds,$717.85,$983.35,$717.85,Supplier_2,Out of Stock,2025-05-10,,,,,,,,,,,,
+AUTO-FIL-0004,Automotive,Filters,"$1,246.55","$1,466.53","$1,246.55","Supplier_3, Supplier_2",Out of Stock,2025-05-07,,,,,,,,,,,,
+GROC-VEG-0004,Groceries,Vegetables,"$1,047.65","$1,114.52","$1,047.65","Supplier_10, Supplier_6",Limited,2025-05-17,,,,,,,,,,,,
+ELEC-SM-0007,Electronics,Smartphones,$524.44,$552.04,$524.44,"Supplier_4, Supplier_2",Out of Stock,2025-05-17,,,,,,,,,,,,
+GROC-VEG-0005,Groceries,Vegetables,$901.86,"$1,202.48",$901.86,"Supplier_6, Supplier_2",In Stock,2025-05-04,,,,,,,,,,,,
+GROC-VEG-0006,Groceries,Vegetables,$430.61,$439.40,$430.61,"Supplier_4, Supplier_6",Limited,2025-05-06,,,,,,,,,,,,
+ELEC-TAB-0002,Electronics,Tablets,"$1,581.06","$1,928.12","$1,581.06",Supplier_5,Limited,2025-05-13,,,,,,,,,,,,
+ELEC-LAP-0009,Electronics,Laptops,"$1,173.94","$1,222.85","$1,173.94",Supplier_3,Limited,2025-05-11,,,,,,,,,,,,
+APPR-SHT-0006,Apparel,Shirts,$967.78,"$1,018.72",$967.78,"Supplier_6, Supplier_1",Limited,2025-05-06,,,,,,,,,,,,
+APPR-JNS-0003,Apparel,Jeans,"$1,640.45","$1,843.20","$1,640.45",Supplier_7,In Stock,2025-05-09,,,,,,,,,,,,
+AUTO-TIR-0002,Automotive,Tires,$608.05,$810.73,$608.05,Supplier_1,In Stock,2025-05-10,,,,,,,,,,,,
+ELEC-CAM-0006,Electronics,Cameras,$626.81,$746.20,$626.81,Supplier_6,In Stock,2025-05-04,,,,,,,,,,,,
+APPR-SHT-0007,Apparel,Shirts,$120.15,$143.03,$120.15,"Supplier_3, Supplier_7",In Stock,2025-05-16,,,,,,,,,,,,
+AUTO-OIL-0003,Automotive,Oil,$827.18,"$1,133.13",$827.18,Supplier_1,Out of Stock,2025-05-07,,,,,,,,,,,,
+GROC-SNK-0006,Groceries,Snacks,"$1,032.81","$1,075.84","$1,032.81","Supplier_5, Supplier_7",Out of Stock,2025-05-05,,,,,,,,,,,,
+FURN-CAB-0004,Furniture,Cabinets,"$1,497.71","$1,664.12","$1,497.71",Supplier_8,Out of Stock,2025-05-15,,,,,,,,,,,,
+AUTO-FIL-0005,Automotive,Filters,$282.10,$352.63,$282.10,Supplier_3,Limited,2025-05-16,,,,,,,,,,,,
+AUTO-TIR-0003,Automotive,Tires,"$1,035.24","$1,398.97","$1,035.24","Supplier_9, Supplier_2",Limited,2025-05-08,,,,,,,,,,,,
+GROC-BEV-0008,Groceries,Beverages,$618.23,$824.31,$618.23,"Supplier_2, Supplier_10",Out of Stock,2025-05-12,,,,,,,,,,,,
+APPR-SHS-0007,Apparel,Shoes,$755.58,$994.19,$755.58,Supplier_9,In Stock,2025-05-10,,,,,,,,,,,,
+APPR-SHS-0008,Apparel,Shoes,$51.01,$54.27,$51.01,"Supplier_4, Supplier_2",Limited,2025-05-08,,,,,,,,,,,,
+GROC-VEG-0007,Groceries,Vegetables,$55.35,$74.80,$55.35,"Supplier_6, Supplier_8",In Stock,2025-05-13,,,,,,,,,,,,
+FURN-CHR-0008,Furniture,Chairs,"$1,458.88","$1,945.17","$1,458.88","Supplier_2, Supplier_7",Out of Stock,2025-05-06,,,,,,,,,,,,
+ELEC-CAM-0007,Electronics,Cameras,"$1,346.23","$1,621.96","$1,346.23",Supplier_8,Out of Stock,2025-05-15,,,,,,,,,,,,
+APPR-JNS-0004,Apparel,Jeans,"$1,204.32","$1,204.32","$1,204.32",Supplier_6,Out of Stock,2025-05-14,,,,,,,,,,,,
+FURN-DSK-0004,Furniture,Desks,$242.26,$257.72,$242.26,"Supplier_4, Supplier_7",Limited,2025-05-06,,,,,,,,,,,,
+APPR-SHS-0009,Apparel,Shoes,$564.25,$613.31,$564.25,"Supplier_7, Supplier_9",Out of Stock,2025-05-05,,,,,,,,,,,,
+AUTO-FIL-0006,Automotive,Filters,$771.81,$779.61,$771.81,Supplier_2,Limited,2025-05-06,,,,,,,,,,,,
+AUTO-OIL-0004,Automotive,Oil,"$1,441.34","$1,947.76","$1,441.34",Supplier_3,Out of Stock,2025-05-17,,,,,,,,,,,,
+GROC-BEV-0009,Groceries,Beverages,$949.25,"$1,300.34",$949.25,Supplier_7,In Stock,2025-05-12,,,,,,,,,,,,
+GROC-FRT-0006,Groceries,Fruits,"$1,504.54","$1,635.37","$1,504.54",Supplier_8,Out of Stock,2025-05-11,,,,,,,,,,,,
+APPR-JKT-0003,Apparel,Jackets,"$1,414.27","$1,428.56","$1,414.27",Supplier_3,Out of Stock,2025-05-14,,,,,,,,,,,,
+APPR-SHS-0010,Apparel,Shoes,"$1,435.86","$1,669.61","$1,435.86","Supplier_6, Supplier_4",Limited,2025-05-08,,,,,,,,,,,,
+FURN-BED-0007,Furniture,Beds,$484.75,$570.30,$484.75,"Supplier_9, Supplier_4",In Stock,2025-05-05,,,,,,,,,,,,
+FURN-DSK-0005,Furniture,Desks,$274.19,$338.51,$274.19,Supplier_2,In Stock,2025-05-08,,,,,,,,,,,,
+AUTO-OIL-0005,Automotive,Oil,"$1,193.99","$1,421.42","$1,193.99",Supplier_7,Out of Stock,2025-05-06,,,,,,,,,,,,
+AUTO-OIL-0006,Automotive,Oil,$757.21,"$1,023.25",$757.21,"Supplier_4, Supplier_8",Out of Stock,2025-05-16,,,,,,,,,,,,
+APPR-SHS-0011,Apparel,Shoes,$218.23,$250.84,$218.23,"Supplier_8, Supplier_2",Limited,2025-05-11,,,,,,,,,,,,
+APPR-SHT-0008,Apparel,Shirts,"$1,173.19","$1,430.72","$1,173.19","Supplier_7, Supplier_6",Out of Stock,2025-05-05,,,,,,,,,,,,
+FURN-CAB-0005,Furniture,Cabinets,$181.83,$191.40,$181.83,Supplier_6,In Stock,2025-05-10,,,,,,,,,,,,
+APPR-JKT-0004,Apparel,Jackets,"$1,766.89","$1,821.54","$1,766.89",Supplier_2,Limited,2025-05-07,,,,,,,,,,,,
+GROC-SNK-0007,Groceries,Snacks,$679.91,$799.89,$679.91,Supplier_4,In Stock,2025-05-13,,,,,,,,,,,,
+AUTO-BAT-0004,Automotive,Batteries,"$1,818.82","$1,976.98","$1,818.82",Supplier_10,In Stock,2025-05-11,,,,,,,,,,,,
+APPR-SHT-0009,Apparel,Shirts,$838.60,"$1,048.25",$838.60,"Supplier_6, Supplier_8",In Stock,2025-05-09,,,,,,,,,,,,
+APPR-JNS-0005,Apparel,Jeans,$502.72,$688.66,$502.72,Supplier_1,Limited,2025-05-15,,,,,,,,,,,,
+AUTO-FIL-0007,Automotive,Filters,$848.94,"$1,010.64",$848.94,Supplier_1,In Stock,2025-05-07,,,,,,,,,,,,
+GROC-BEV-0010,Groceries,Beverages,"$1,549.60","$1,581.22","$1,549.60","Supplier_10, Supplier_6",Out of Stock,2025-05-09,,,,,,,,,,,,
+FURN-DSK-0006,Furniture,Desks,$117.86,$122.77,$117.86,Supplier_2,Out of Stock,2025-05-11,,,,,,,,,,,,
+APPR-SHT-0010,Apparel,Shirts,"$1,275.61","$1,614.70","$1,275.61","Supplier_5, Supplier_4",In Stock,2025-05-15,,,,,,,,,,,,
+ELEC-SM-0008,Electronics,Smartphones,"$1,509.25","$1,555.93","$1,509.25",Supplier_4,Out of Stock,2025-05-06,,,,,,,,,,,,
+GROC-VEG-0008,Groceries,Vegetables,$689.03,$840.28,$689.03,Supplier_2,Limited,2025-05-13,,,,,,,,,,,,
+GROC-SNK-0008,Groceries,Snacks,"$1,065.76","$1,440.22","$1,065.76","Supplier_9, Supplier_10",Out of Stock,2025-05-16,,,,,,,,,,,,
+FURN-DSK-0007,Furniture,Desks,$938.34,"$1,203.00",$938.34,"Supplier_4, Supplier_8",In Stock,2025-05-07,,,,,,,,,,,,
+ELEC-SM-0009,Electronics,Smartphones,"$1,100.54","$1,467.39","$1,100.54","Supplier_2, Supplier_7",Out of Stock,2025-05-07,,,,,,,,,,,,
+AUTO-BAT-0005,Automotive,Batteries,$305.29,$328.27,$305.29,Supplier_6,Out of Stock,2025-05-11,,,,,,,,,,,,
+AUTO-FIL-0008,Automotive,Filters,$856.33,$951.48,$856.33,Supplier_1,In Stock,2025-05-11,,,,,,,,,,,,
+ELEC-CAM-0008,Electronics,Cameras,$108.09,$152.24,$108.09,Supplier_3,In Stock,2025-05-17,,,,,,,,,,,,
+ELEC-CAM-0009,Electronics,Cameras,$122.44,$153.05,$122.44,Supplier_1,In Stock,2025-05-09,,,,,,,,,,,,
+ELEC-LAP-0010,Electronics,Laptops,$460.43,$554.74,$460.43,Supplier_4,In Stock,2025-05-11,,,,,,,,,,,,
+AUTO-BAT-0006,Automotive,Batteries,"$1,738.28","$1,773.76","$1,738.28",Supplier_6,Out of Stock,2025-05-13,,,,,,,,,,,,
+APPR-SHT-0011,Apparel,Shirts,"$1,331.58","$1,358.75","$1,331.58","Supplier_1, Supplier_3",In Stock,2025-05-14,,,,,,,,,,,,
+AUTO-FIL-0009,Automotive,Filters,$796.77,"$1,048.38",$796.77,Supplier_7,In Stock,2025-05-15,,,,,,,,,,,,
+FURN-DSK-0008,Furniture,Desks,"$1,440.92","$1,566.22","$1,440.92",Supplier_7,Limited,2025-05-13,,,,,,,,,,,,
+AUTO-TIR-0004,Automotive,Tires,$514.26,$524.76,$514.26,Supplier_2,Out of Stock,2025-05-04,,,,,,,,,,,,
+FURN-CHR-0009,Furniture,Chairs,$627.34,$847.75,$627.34,Supplier_1,In Stock,2025-05-17,,,,,,,,,,,,
+ELEC-TAB-0003,Electronics,Tablets,$720.27,$867.79,$720.27,"Supplier_4, Supplier_3",Out of Stock,2025-05-10,,,,,,,,,,,,
+GROC-VEG-0009,Groceries,Vegetables,"$1,520.52","$1,949.39","$1,520.52",Supplier_10,Out of Stock,2025-05-15,,,,,,,,,,,,
+AUTO-FIL-0010,Automotive,Filters,$760.99,$776.52,$760.99,"Supplier_8, Supplier_2",Limited,2025-05-11,,,,,,,,,,,,
+APPR-SHT-0001,Apparel,Shirts,$77.85,$80.26,$77.85,Supplier_3,In Stock,2025-05-14,,,,,,,,,,,,
+FURN-CAB-0001,Furniture,Cabinets,$196.88,$240.10,$196.88,"Supplier_2, Supplier_8",Out of Stock,2025-05-12,,,,,,,,,,,,
+FURN-BED-0001,Furniture,Beds,$511.24,$594.47,$511.24,Supplier_8,Limited,2025-05-14,,,,,,,,,,,,
+APPR-SHS-0001,Apparel,Shoes,"$1,706.81","$1,835.28","$1,706.81","Supplier_5, Supplier_1",In Stock,2025-05-16,,,,,,,,,,,,
+FURN-CHR-0001,Furniture,Chairs,"$1,009.81","$1,160.70","$1,009.81","Supplier_5, Supplier_2",Limited,2025-05-07,,,,,,,,,,,,
+AUTO-FIL-0001,Automotive,Filters,$206.89,$232.46,$206.89,"Supplier_6, Supplier_9",Limited,2025-05-13,,,,,,,,,,,,
+AUTO-TIR-0001,Automotive,Tires,$885.24,"$1,005.96",$885.24,Supplier_2,Out of Stock,2025-05-10,,,,,,,,,,,,
+AUTO-OIL-0001,Automotive,Oil,$271.14,$326.68,$271.14,Supplier_6,Limited,2025-05-17,,,,,,,,,,,,
+GROC-BEV-0001,Groceries,Beverages,"$1,595.50","$1,994.37","$1,595.50",Supplier_9,Limited,2025-05-12,,,,,,,,,,,,
+FURN-DSK-0001,Furniture,Desks,$945.85,"$1,228.38",$945.85,"Supplier_2, Supplier_3",Out of Stock,2025-05-11,,,,,,,,,,,,
+GROC-BEV-0001,Groceries,Beverages,"$1,360.94","$1,564.30","$1,360.94",Supplier_6,In Stock,2025-05-11,,,,,,,,,,,,
+GROC-SNK-0001,Groceries,Snacks,$300.25,$389.94,$300.25,"Supplier_8, Supplier_4",In Stock,2025-05-04,,,,,,,,,,,,
+GROC-BEV-0002,Groceries,Beverages,"$1,078.71","$1,112.07","$1,078.71",Supplier_9,In Stock,2025-05-09,,,,,,,,,,,,
+APPR-JNS-0001,Apparel,Jeans,"$1,343.67","$1,745.02","$1,343.67",Supplier_8,Limited,2025-05-13,,,,,,,,,,,,
+APPR-SHS-0002,Apparel,Shoes,"$1,118.63","$1,242.92","$1,118.63","Supplier_9, Supplier_1",Out of Stock,2025-05-06,,,,,,,,,,,,
+AUTO-OIL-0002,Automotive,Oil,$512.38,$711.64,$512.38,Supplier_9,Limited,2025-05-12,,,,,,,,,,,,
+ELEC-LAP-0001,Electronics,Laptops,"$1,205.88","$1,470.59","$1,205.88","Supplier_7, Supplier_6",Out of Stock,2025-05-04,,,,,,,,,,,,
+GROC-SNK-0001,Groceries,Snacks,$281.84,$396.96,$281.84,Supplier_8,In Stock,2025-05-10,,,,,,,,,,,,
+ELEC-CAM-0001,Electronics,Cameras,"$1,184.90","$1,331.35","$1,184.90","Supplier_8, Supplier_1",Limited,2025-05-06,,,,,,,,,,,,
+AUTO-OIL-0003,Automotive,Oil,$257.50,$367.85,$257.50,"Supplier_3, Supplier_4",Out of Stock,2025-05-17,,,,,,,,,,,,
+ELEC-CAM-0001,Electronics,Cameras,"$1,289.73","$1,791.29","$1,289.73","Supplier_1, Supplier_6",Out of Stock,2025-05-04,,,,,,,,,,,,
+GROC-VEG-0001,Groceries,Vegetables,$978.29,$988.17,$978.29,"Supplier_4, Supplier_2",Out of Stock,2025-05-12,,,,,,,,,,,,
+FURN-BED-0002,Furniture,Beds,$538.07,$543.51,$538.07,"Supplier_9, Supplier_1",Out of Stock,2025-05-04,,,,,,,,,,,,
+ELEC-LAP-0001,Electronics,Laptops,$73.37,$94.07,$73.37,Supplier_10,Out of Stock,2025-05-05,,,,,,,,,,,,
+ELEC-CAM-0002,Electronics,Cameras,$261.44,$281.12,$261.44,Supplier_8,Limited,2025-05-13,,,,,,,,,,,,
+GROC-BEV-0002,Groceries,Beverages,"$1,405.69","$1,979.85","$1,405.69","Supplier_7, Supplier_8",In Stock,2025-05-09,,,,,,,,,,,,
+ELEC-TAB-0001,Electronics,Tablets,$697.15,$860.68,$697.15,"Supplier_2, Supplier_8",Limited,2025-05-06,,,,,,,,,,,,
+ELEC-TAB-0002,Electronics,Tablets,"$1,082.50","$1,462.84","$1,082.50",Supplier_8,In Stock,2025-05-05,,,,,,,,,,,,
+AUTO-OIL-0004,Automotive,Oil,"$1,385.55","$1,951.48","$1,385.55","Supplier_1, Supplier_4",In Stock,2025-05-10,,,,,,,,,,,,
+GROC-SNK-0002,Groceries,Snacks,$402.10,$423.26,$402.10,"Supplier_3, Supplier_9",Limited,2025-05-06,,,,,,,,,,,,
+FURN-CAB-0002,Furniture,Cabinets,$969.49,"$1,009.89",$969.49,"Supplier_1, Supplier_8",Out of Stock,2025-05-14,,,,,,,,,,,,
+AUTO-FIL-0001,Automotive,Filters,"$1,508.94","$1,640.15","$1,508.94","Supplier_1, Supplier_9",Limited,2025-05-17,,,,,,,,,,,,
+ELEC-SM-0001,Electronics,Smartphones,$994.64,"$1,212.97",$994.64,Supplier_1,Out of Stock,2025-05-15,,,,,,,,,,,,
+ELEC-TAB-0001,Electronics,Tablets,$833.51,"$1,173.96",$833.51,"Supplier_8, Supplier_1",Out of Stock,2025-05-17,,,,,,,,,,,,
+FURN-BED-0003,Furniture,Beds,$391.65,$421.13,$391.65,Supplier_3,Limited,2025-05-08,,,,,,,,,,,,
+ELEC-SM-0001,Electronics,Smartphones,$951.96,"$1,359.95",$951.96,"Supplier_7, Supplier_4",Limited,2025-05-12,,,,,,,,,,,,
+ELEC-TAB-0003,Electronics,Tablets,$150.09,$202.83,$150.09,Supplier_1,Out of Stock,2025-05-05,,,,,,,,,,,,
+APPR-JKT-0001,Apparel,Jackets,$362.56,$385.70,$362.56,"Supplier_6, Supplier_3",Limited,2025-05-05,,,,,,,,,,,,
+FURN-BED-0001,Furniture,Beds,"$1,077.54","$1,197.27","$1,077.54",Supplier_8,Out of Stock,2025-05-05,,,,,,,,,,,,
+APPR-JKT-0002,Apparel,Jackets,$332.09,$338.87,$332.09,"Supplier_5, Supplier_10",Out of Stock,2025-05-17,,,,,,,,,,,,
+ELEC-LAP-0004,,,,,,,,,2025-04-26 18:30:18.397769,Holly Garza,21:16:27,"North Josephmouth, Texas, Mayotte - 14361",1.0,Debit Card,,,,,,
+GROC-BEV-0007,,,,,,,,,2025-04-25 04:39:59.312418,Christina Daniel,13:18:15,"South Mariamouth, California, Tajikistan - 70122",5.0,Paypal,,,,,,
+ELEC-LAP-0002,,,,,,,,,2025-04-11 09:54:17.196556,Jennifer Ray,13:54:45,"Lake Mary, Nevada, Azerbaijan - 56926",1.0,Credit Card,,,,,,
+FURN-CHR-0002,,,,,,,,,2025-04-16 12:44:17.713403,Jeff Hernandez,08:51:55,"Derekburgh, Maryland, Afghanistan - 01237",5.0,Paypal,,,,,,
+ELEC-CAM-0006,,,,,,,,,2025-04-14 16:01:20.812293,Jared Sanchez,13:56:13,"West Dawnton, Minnesota, Montenegro - 86077",1.0,Debit Card,,,,,,
+GROC-VEG-0008,,,,,,,,,2025-04-04 23:51:10.103614,Terry Parker,06:22:04,"South Lori, Oregon, Micronesia - 95699",5.0,Credit Card,,,,,,
+GROC-BEV-0009,,,,,,,,,2025-04-30 23:59:22.511366,Charles Matthews,10:32:12,"Port Nicole, Alabama, Lesotho - 62086",5.0,Credit Card,,,,,,
+FURN-BED-0007,,,,,,,,,2025-04-04 05:35:12.961686,Kimberly Thompson,04:13:16,"West Bryan, Nevada, Gambia - 35832",3.0,Paypal,,,,,,
+ELEC-CAM-0002,,,,,,,,,2025-04-10 20:49:12.722753,Emily Perez,22:27:03,"Caitlinland, Florida, Dominica - 92918",3.0,Debit Card,,,,,,
+APPR-SHT-0001,,,,,,,,,2025-04-07 15:00:08.555845,Joel Johnston,20:03:57,"Port Cynthia, Oregon, Cook Islands - 20218",4.0,Paypal,,,,,,
+FURN-CAB-0004,,,,,,,,,2025-04-23 19:19:34.572519,Aaron Sanchez,05:29:38,"North Kellytown, New York, Maldives - 10489",2.0,Paypal,,,,,,
+APPR-SHS-0005,,,,,,,,,2025-04-21 19:25:43.491810,Dr. Gregory Ruiz,10:02:25,"Davieston, Missouri, American Samoa - 50577",3.0,Debit Card,,,,,,
+AUTO-FIL-0005,,,,,,,,,2025-04-04 01:13:25.389631,Lisa Cooper,13:18:48,"Port Steven, Arkansas, French Southern Territories - 44688",3.0,Debit Card,,,,,,
+APPR-SHT-0010,,,,,,,,,2025-04-03 21:08:00.631616,Bobby Fuentes,22:02:00,"Jamesbury, New Jersey, Comoros - 52959",1.0,Debit Card,,,,,,
+APPR-SHT-0009,,,,,,,,,2025-05-02 01:17:02.535310,John Chapman,11:17:35,"South Travisstad, New York, Bahrain - 49068",2.0,Debit Card,,,,,,
+GROC-VEG-0001,,,,,,,,,2025-04-16 19:17:28.293935,Joshua Castro,20:03:06,"South Eric, California, American Samoa - 97578",2.0,Paypal,,,,,,
+AUTO-BAT-0005,,,,,,,,,2025-04-19 13:25:34.853595,Benjamin Tapia,20:17:48,"South Robertton, North Carolina, Mauritania - 70747",3.0,Paypal,,,,,,
+GROC-BEV-0009,,,,,,,,,2025-04-28 14:35:15.989050,Joshua Williams,00:26:16,"Jimmyview, Georgia, French Guiana - 17765",1.0,Credit Card,,,,,,
+AUTO-BAT-0005,,,,,,,,,2025-04-10 05:18:55.001052,Cassandra Barber,03:46:56,"Keithfurt, Tennessee, Tuvalu - 87808",5.0,Debit Card,,,,,,
+APPR-JKT-0001,,,,,,,,,2025-04-21 20:40:21.720615,Amber Gregory,05:13:44,"New Sandrafort, Utah, Guadeloupe - 09475",3.0,Credit Card,,,,,,
+AUTO-OIL-0002,,,,,,,,,2025-04-30 11:05:44.104498,Whitney Ray,01:39:47,"Watkinsshire, Florida, American Samoa - 87413",2.0,Paypal,,,,,,
+GROC-BEV-0004,,,,,,,,,2025-04-19 04:22:32.499102,David Williams,08:02:59,"Hernandezland, South Dakota, Palau - 14821",1.0,Debit Card,,,,,,
+FURN-CAB-0003,,,,,,,,,2025-05-03 09:07:40.775762,Ashley Jenkins,22:23:50,"South Robertburgh, Iowa, Fiji - 65293",1.0,Credit Card,,,,,,
+ELEC-SM-0003,,,,,,,,,2025-04-05 06:10:10.905060,Sarah Camacho,01:21:13,"Rachelhaven, Texas, Taiwan - 30133",2.0,Credit Card,,,,,,
+ELEC-TAB-0001,,,,,,,,,2025-04-26 22:05:16.802866,Danielle Chapman,07:24:39,"Williamston, Pennsylvania, Italy - 66934",4.0,Credit Card,,,,,,
+ELEC-LAP-0003,,,,,,,,,2025-04-08 03:29:45.498580,Kathleen Nelson,20:40:09,"South Joshua, Utah, Vanuatu - 52121",4.0,Debit Card,,,,,,
+GROC-BEV-0005,,,,,,,,,2025-04-04 14:34:39.007061,Felicia Nelson,22:05:31,"Port Laurastad, California, Cocos (Keeling) Islands - 26126",3.0,Credit Card,,,,,,
+AUTO-FIL-0003,,,,,,,,,2025-04-07 17:10:07.042459,Brandon Castro,10:53:45,"Hatfieldview, Illinois, Greece - 80112",2.0,Paypal,,,,,,
+GROC-SNK-0003,,,,,,,,,2025-04-20 06:20:02.295870,Mary Ramos,02:58:56,"Alvaradochester, Delaware, Holy See (Vatican City State) - 11625",1.0,Paypal,,,,,,
+FURN-CHR-0007,,,,,,,,,2025-05-02 18:13:53.149098,Michael Martin,11:36:44,"North Tammy, Washington, Belize - 50274",1.0,Credit Card,,,,,,
+ELEC-CAM-0004,,,,,,,,,2025-04-22 20:53:50.142863,Mary Smith,00:43:53,"North Sean, Oregon, Djibouti - 23806",3.0,Credit Card,,,,,,
+APPR-SHS-0003,,,,,,,,,2025-04-30 16:09:02.375671,Keith Rasmussen,16:12:05,"Carterview, New York, Sudan - 06664",5.0,Debit Card,,,,,,
+GROC-VEG-0003,,,,,,,,,2025-04-25 13:09:39.074006,Craig Montoya,19:34:33,"Anatown, Georgia, Palau - 58475",1.0,Debit Card,,,,,,
+ELEC-LAP-0001,,,,,,,,,2025-04-07 08:36:52.671843,Kelly Weaver,09:14:18,"North Luis, Tennessee, Samoa - 56601",3.0,Debit Card,,,,,,
+APPR-JKT-0003,,,,,,,,,2025-05-02 05:01:13.480264,Edward Weber,17:58:32,"Lemouth, Connecticut, Ireland - 67697",2.0,Credit Card,,,,,,
+FURN-BED-0003,,,,,,,,,2025-04-29 10:22:02.278278,Travis Olson,21:41:07,"Ramseyshire, Colorado, Poland - 71488",3.0,Credit Card,,,,,,
+AUTO-FIL-0008,,,,,,,,,2025-04-09 06:27:28.712419,Tammy Hampton,15:51:24,"Estesmouth, Iowa, Kiribati - 91018",4.0,Credit Card,,,,,,
+ELEC-CAM-0008,,,,,,,,,2025-04-04 08:51:09.858814,Justin Hawkins,06:45:49,"Port Brianna, Rhode Island, Martinique - 78384",4.0,Credit Card,,,,,,
+ELEC-CAM-0003,,,,,,,,,2025-04-29 23:49:45.233637,Anthony Fox,05:45:26,"Lake Cesar, Rhode Island, Saint Martin - 86058",5.0,Debit Card,,,,,,
+GROC-FRT-0001,,,,,,,,,2025-04-25 20:21:01.910768,Nicholas Taylor,07:04:17,"Natashastad, New York, Malawi - 49794",1.0,Paypal,,,,,,
+FURN-BED-0003,,,,,,,,,2025-04-26 22:36:36.247875,Sarah Gray,04:07:46,"Lake Anthony, Maryland, Puerto Rico - 50757",2.0,Credit Card,,,,,,
+GROC-FRT-0004,,,,,,,,,2025-04-17 08:54:05.613599,Donald Patel,23:59:07,"Tuckerburgh, North Dakota, Papua New Guinea - 03675",5.0,Credit Card,,,,,,
+AUTO-FIL-0004,,,,,,,,,2025-05-02 22:52:11.280333,Christopher Little,02:51:47,"South Russell, California, Luxembourg - 70123",2.0,Paypal,,,,,,
+ELEC-TAB-0002,,,,,,,,,2025-04-05 02:51:35.823012,Lawrence Bailey,02:54:49,"Jessicamouth, North Dakota, Estonia - 03248",3.0,Debit Card,,,,,,
+AUTO-FIL-0008,,,,,,,,,2025-04-06 02:34:15.632084,Lucas Henderson,15:09:49,"Troyfort, Florida, Norfolk Island - 66273",4.0,Credit Card,,,,,,
+FURN-CAB-0005,,,,,,,,,2025-04-12 15:43:18.836532,Theresa Zimmerman,06:06:51,"Lake Michael, New York, Norway - 85141",4.0,Debit Card,,,,,,
+FURN-CHR-0009,,,,,,,,,2025-04-18 00:40:28.178604,Kristen Pierce,06:24:02,"South Deborah, Tennessee, Libyan Arab Jamahiriya - 84252",5.0,Credit Card,,,,,,
+APPR-JNS-0002,,,,,,,,,2025-04-28 01:23:14.574011,Rachael Foster,09:14:20,"New Jasonshire, Wyoming, Equatorial Guinea - 29353",4.0,Paypal,,,,,,
+FURN-BED-0001,,,,,,,,,2025-04-04 10:23:33.646919,Carrie Freeman,18:17:29,"West Brittney, Virginia, Azerbaijan - 94842",3.0,Credit Card,,,,,,
+APPR-SHT-0009,,,,,,,,,2025-04-11 05:47:27.987276,Alexis Avila,13:37:39,"Port Alexandriamouth, Nevada, Comoros - 33103",5.0,Credit Card,,,,,,
+GROC-FRT-0004,,,,,,,,,2025-04-18 07:49:30.498482,Erica Cole,03:36:55,"East Christianchester, Vermont, Sudan - 21399",3.0,Paypal,,,,,,
+FURN-CHR-0002,,,,,,,,,2025-04-30 13:06:50.800096,Nicholas Jackson,22:18:18,"Alyssaville, New Hampshire, Qatar - 43486",3.0,Paypal,,,,,,
+FURN-BED-0004,,,,,,,,,2025-04-06 20:28:43.636363,Paige Li,13:53:22,"East Ryanmouth, Utah, Germany - 56507",5.0,Credit Card,,,,,,
+GROC-FRT-0001,,,,,,,,,2025-04-22 04:05:11.122287,Troy Rodriguez,18:10:36,"Lake Billyside, West Virginia, Peru - 48545",2.0,Credit Card,,,,,,
+APPR-SHS-0002,,,,,,,,,2025-04-28 20:16:26.673239,Perry Long,16:55:41,"Williamsland, Tennessee, Norfolk Island - 04273",1.0,Paypal,,,,,,
+ELEC-CAM-0003,,,,,,,,,2025-04-08 16:19:44.023175,Linda Gill,02:30:17,"North Brandon, Indiana, Singapore - 52061",4.0,Debit Card,,,,,,
+AUTO-FIL-0006,,,,,,,,,2025-04-11 19:44:22.137605,Caroline Graham,18:52:47,"New Dominiquemouth, Michigan, Saint Kitts and Nevis - 14393",4.0,Paypal,,,,,,
+APPR-SHS-0008,,,,,,,,,2025-04-24 07:08:36.385033,Kevin Andrews,07:27:23,"Curryport, Wyoming, Philippines - 86170",2.0,Credit Card,,,,,,
+APPR-SHT-0005,,,,,,,,,2025-04-17 00:54:04.785872,Vicki Lang,00:24:49,"Ryanside, Oklahoma, Denmark - 33674",2.0,Paypal,,,,,,
+APPR-SHS-0007,,,,,,,,,2025-05-03 05:28:13.051411,Tina Bell,10:36:45,"North Nicholaston, Tennessee, Iraq - 59662",1.0,Debit Card,,,,,,
+AUTO-FIL-0009,,,,,,,,,2025-05-01 08:03:50.359177,Brett Campos,19:52:05,"Walkerborough, Delaware, Estonia - 39795",2.0,Paypal,,,,,,
+APPR-JNS-0001,,,,,,,,,2025-04-27 15:59:45.163734,Ryan Robinson,02:53:38,"Walkerberg, Washington, Niger - 44271",1.0,Paypal,,,,,,
+AUTO-FIL-0003,,,,,,,,,2025-04-07 00:03:45.542616,Jonathan Hill,23:27:13,"Christopherfort, Wisconsin, Cape Verde - 83781",3.0,Credit Card,,,,,,
+APPR-SHS-0001,,,,,,,,,2025-04-22 07:48:39.600993,Sarah Lee DDS,09:46:37,"West Jerryview, Texas, Cambodia - 23873",4.0,Paypal,,,,,,
+ELEC-CAM-0004,,,,,,,,,2025-04-13 11:49:44.144876,Jane Vargas,17:55:43,"Lake Joseph, Virginia, Marshall Islands - 26536",4.0,Credit Card,,,,,,
+FURN-CHR-0006,,,,,,,,,2025-04-19 01:14:38.032665,Christopher Fisher,10:33:13,"Lake Kristine, Virginia, Korea - 25316",2.0,Debit Card,,,,,,
+ELEC-LAP-0003,,,,,,,,,2025-04-04 08:25:14.137678,Mary Simon,09:25:36,"East George, Utah, Taiwan - 54534",5.0,Paypal,,,,,,
+GROC-FRT-0006,,,,,,,,,2025-04-08 05:36:09.933578,Kimberly Morris,00:59:18,"New Jeremyside, Georgia, Pakistan - 36785",2.0,Credit Card,,,,,,
+FURN-BED-0004,,,,,,,,,2025-04-28 05:44:12.233387,Jonathan Rogers,04:51:37,"West Billy, Kentucky, Nepal - 10041",2.0,Paypal,,,,,,
+APPR-JNS-0002,,,,,,,,,2025-04-29 07:20:27.912981,Christopher Moore II,02:56:13,"North Brandonmouth, Montana, Cambodia - 72884",3.0,Credit Card,,,,,,
+AUTO-FIL-0008,,,,,,,,,2025-04-26 11:26:41.979893,David Armstrong,07:34:24,"New Manuel, Mississippi, Myanmar - 64230",1.0,Credit Card,,,,,,
+APPR-SHS-0003,,,,,,,,,2025-04-27 10:58:44.941096,Katherine Reynolds,20:21:54,"East Michellefort, New Hampshire, Peru - 23834",4.0,Paypal,,,,,,
+AUTO-FIL-0002,,,,,,,,,2025-04-25 05:36:42.536989,Matthew Hoffman,17:38:50,"South Michele, Michigan, Gabon - 24623",3.0,Credit Card,,,,,,
+APPR-JKT-0002,,,,,,,,,2025-05-02 15:57:01.501974,Katherine Fields,06:55:47,"Miguelstad, Ohio, Myanmar - 27680",1.0,Debit Card,,,,,,
+ELEC-CAM-0008,,,,,,,,,2025-04-25 00:04:59.110414,Stephanie Perez,05:01:43,"East Michaelburgh, North Dakota, Kuwait - 48049",3.0,Paypal,,,,,,
+AUTO-TIR-0004,,,,,,,,,2025-04-24 10:59:32.423071,Thomas Johnson,16:27:03,"Thomastown, Tennessee, Australia - 10058",5.0,Paypal,,,,,,
+APPR-JNS-0001,,,,,,,,,2025-04-16 08:45:21.603468,Jeffrey Odonnell,18:46:53,"Smithburgh, Michigan, Pakistan - 31845",1.0,Credit Card,,,,,,
+ELEC-SM-0007,,,,,,,,,2025-04-14 17:49:47.882919,Caroline Singleton,18:07:15,"North Corey, Michigan, Chile - 77106",3.0,Debit Card,,,,,,
+GROC-BEV-0006,,,,,,,,,2025-04-11 17:45:59.426647,Nicholas Raymond,23:08:47,"West Kimberlyville, Kansas, United Kingdom - 46920",3.0,Credit Card,,,,,,
+GROC-VEG-0008,,,,,,,,,2025-04-21 10:57:19.669094,Lauren Roy,18:54:50,"Maryport, New Hampshire, Singapore - 53962",1.0,Debit Card,,,,,,
+APPR-JKT-0001,,,,,,,,,2025-04-10 17:06:57.036800,Caitlin Davis,01:40:13,"Websterside, Illinois, Grenada - 70194",2.0,Credit Card,,,,,,
+ELEC-LAP-0007,,,,,,,,,2025-04-20 10:07:12.701336,Madison Klein,01:08:35,"Lake Ronaldfurt, Vermont, Albania - 82573",1.0,Paypal,,,,,,
+ELEC-TAB-0002,,,,,,,,,2025-04-11 12:34:25.629047,Dr. Felicia Parker DDS,04:04:55,"Lake James, Alabama, Saint Vincent and the Grenadines - 09753",1.0,Credit Card,,,,,,
+ELEC-CAM-0009,,,,,,,,,2025-04-05 11:08:19.717434,James Lynch,02:53:37,"Melissafort, Ohio, Belgium - 80798",2.0,Credit Card,,,,,,
+FURN-CAB-0004,,,,,,,,,2025-04-10 12:19:16.980443,Mercedes Lee,04:47:07,"North Ashley, North Dakota, United Arab Emirates - 42195",4.0,Debit Card,,,,,,
+ELEC-CAM-0009,,,,,,,,,2025-05-02 12:09:12.375799,John Gibson,20:50:53,"Delgadomouth, Maine, Malta - 34577",1.0,Credit Card,,,,,,
+GROC-FRT-0005,,,,,,,,,2025-04-24 08:02:32.809273,Jeffrey Willis,08:43:04,"Elizabethville, New Mexico, Vanuatu - 92896",2.0,Debit Card,,,,,,
+AUTO-FIL-0004,,,,,,,,,2025-04-27 05:58:12.391776,Marcus Rojas,20:50:04,"Robinsonside, South Dakota, Ethiopia - 97054",1.0,Credit Card,,,,,,
+FURN-CHR-0006,,,,,,,,,2025-04-21 14:54:07.081769,Patrick Young,07:02:56,"East Anthonyview, Pennsylvania, American Samoa - 29994",3.0,Paypal,,,,,,
+FURN-CHR-0003,,,,,,,,,2025-04-27 13:49:05.415897,Jeffrey Fleming,19:44:38,"Sheilastad, Louisiana, Australia - 74381",3.0,Credit Card,,,,,,
+APPR-SHS-0001,,,,,,,,,2025-04-19 00:20:29.845891,Angela Smith,17:24:11,"Port Pedro, Wyoming, Tonga - 18132",2.0,Paypal,,,,,,
+APPR-SHS-0003,,,,,,,,,2025-05-02 06:02:26.882653,Richard Raymond DVM,02:36:32,"Clarkshire, New Jersey, British Virgin Islands - 66069",3.0,Credit Card,,,,,,
+FURN-CHR-0003,,,,,,,,,2025-05-02 13:34:33.264467,Glenn Sanchez,12:52:30,"Michaelside, Missouri, Qatar - 73507",3.0,Debit Card,,,,,,
+ELEC-SM-0004,,,,,,,,,2025-04-17 10:21:42.498192,Brenda Clark,21:56:42,"Kramerfurt, North Carolina, Sudan - 98305",3.0,Credit Card,,,,,,
+APPR-SHT-0011,,,,,,,,,2025-04-20 04:29:41.317422,Stephanie Baker,08:37:21,"Meyerstown, Washington, Gabon - 05108",3.0,Debit Card,,,,,,
+ELEC-SM-0009,,,,,,,,,2025-04-23 16:22:16.875643,Michael Porter,09:26:33,"Davidberg, North Carolina, Solomon Islands - 89855",1.0,Credit Card,,,,,,
+AUTO-TIR-0003,,,,,,,,,2025-04-18 05:56:21.634702,Kimberly Martin,20:04:03,"New Angela, Oregon, Tuvalu - 50109",3.0,Credit Card,,,,,,
+ELEC-CAM-0005,,,,,,,,,2025-04-20 01:30:42.015751,Miss Jennifer Nash,05:37:45,"North Christopher, Illinois, Botswana - 62664",2.0,Credit Card,,,,,,
+FURN-DSK-0005,,,,,,,,,2025-04-07 16:02:44.235415,Matthew Strong,15:46:58,"North John, Wyoming, Niue - 61709",3.0,Credit Card,,,,,,
+AUTO-OIL-0001,,,,,,,,,2025-04-30 06:08:34.441113,Stacy Medina,15:24:02,"Lake Nicolemouth, Michigan, Greenland - 86504",1.0,Debit Card,,,,,,
+APPR-SHS-0008,,,,,,,,,2025-04-07 06:36:58.749855,Rebecca Waters,03:41:57,"North Kathleentown, Colorado, Liechtenstein - 04884",2.0,Credit Card,,,,,,
+ELEC-CAM-0001,,,,,,,,,2025-04-09 07:33:02.803419,Diane Collins,13:05:11,"Bowmanview, New Mexico, Anguilla - 17151",2.0,Paypal,,,,,,
+FURN-CHR-0004,,,,,,,,,2025-04-15 09:46:10.053318,Troy Burgess,08:49:10,"East James, Oklahoma, Malaysia - 55588",5.0,Paypal,,,,,,
+ELEC-CAM-0009,,,,,,,,,2025-04-07 10:40:55.080783,Andrea Morris,00:59:22,"South Jared, Kentucky, Pitcairn Islands - 76461",3.0,Paypal,,,,,,
+AUTO-BAT-0001,,,,,,,,,2025-04-15 03:53:56.146509,Edwin Villegas,04:44:01,"South Davidfurt, Alaska, Greece - 81292",3.0,Debit Card,,,,,,
+GROC-FRT-0006,,,,,,,,,2025-04-28 18:27:46.853510,Rachel Wise,17:57:56,"East Amy, Oklahoma, Chile - 37045",2.0,Paypal,,,,,,
+AUTO-BAT-0002,,,,,,,,,2025-04-11 13:49:51.822106,Hannah Sullivan,11:55:03,"West Anthonybury, Hawaii, Kenya - 20816",5.0,Paypal,,,,,,
+APPR-SHS-0006,,,,,,,,,2025-04-29 15:36:15.463525,Kimberly Salazar,11:44:53,"Thomasbury, Iowa, Dominica - 40777",1.0,Debit Card,,,,,,
+FURN-BED-0006,,,,,,,,,2025-04-26 20:32:49.225414,Lisa Underwood,08:34:06,"Bergerburgh, Colorado, Saint Martin - 56324",2.0,Debit Card,,,,,,
+GROC-BEV-0007,,,,,,,,,2025-04-13 21:12:20.965506,Lisa Dean DDS,11:08:34,"East Markstad, Oklahoma, Ethiopia - 34337",5.0,Credit Card,,,,,,
+ELEC-LAP-0007,,,,,,,,,2025-04-25 18:07:44.936069,Robert Taylor,18:39:39,"Jonesport, South Dakota, Kazakhstan - 46551",3.0,Debit Card,,,,,,
+ELEC-LAP-0006,,,,,,,,,2025-04-08 09:27:34.704408,Eric White,15:08:55,"Williamborough, Delaware, Sao Tome and Principe - 82532",2.0,Paypal,,,,,,
+APPR-SHS-0001,,,,,,,,,2025-04-16 14:44:02.979154,John Lara,16:18:38,"Port Eric, Alaska, Bosnia and Herzegovina - 80758",2.0,Debit Card,,,,,,
+ELEC-LAP-0003,,,,,,,,,2025-04-11 15:26:06.872236,Stacey Oneal,12:38:12,"Port Maryport, New Mexico, Iran - 16327",3.0,Credit Card,,,,,,
+APPR-SHS-0004,,,,,,,,,2025-04-04 23:42:25.002327,Anthony Medina,01:36:40,"Murilloport, Missouri, Rwanda - 66384",1.0,Paypal,,,,,,
+AUTO-TIR-0003,,,,,,,,,2025-04-16 20:12:33.478496,Amy Jackson,09:33:01,"West Dawnfort, New Jersey, United Kingdom - 37329",3.0,Paypal,,,,,,
+FURN-CHR-0004,,,,,,,,,2025-04-28 14:40:31.767550,Courtney Schmidt,06:26:21,"Port Elizabethmouth, Wisconsin, Bangladesh - 70249",2.0,Credit Card,,,,,,
+FURN-DSK-0006,,,,,,,,,2025-04-22 09:22:35.442883,Shelley Edwards,15:33:12,"Scottfurt, Massachusetts, French Southern Territories - 35668",4.0,Debit Card,,,,,,
+GROC-FRT-0005,,,,,,,,,2025-04-22 14:11:43.459936,Sabrina Mcbride,13:59:54,"South Barbara, Pennsylvania, Cambodia - 88521",5.0,Debit Card,,,,,,
+AUTO-BAT-0001,,,,,,,,,2025-04-23 02:29:38.821645,Joseph Clark,02:34:47,"East Larryburgh, North Carolina, South Georgia and the South Sandwich Islands - 27128",2.0,Paypal,,,,,,
+APPR-JNS-0001,,,,,,,,,2025-04-09 02:55:50.858330,Andre Nunez,08:26:49,"Cassandraburgh, Oklahoma, Nauru - 78045",4.0,Debit Card,,,,,,
+APPR-SHS-0010,,,,,,,,,2025-04-26 12:45:24.733502,Allison Andrade,05:11:10,"Martinezshire, Ohio, Turks and Caicos Islands - 54474",4.0,Paypal,,,,,,
+GROC-FRT-0002,,,,,,,,,2025-04-19 16:26:14.322995,Elizabeth Figueroa,15:13:22,"Lloydbury, Iowa, Brunei Darussalam - 83260",4.0,Debit Card,,,,,,
+GROC-SNK-0001,,,,,,,,,2025-04-17 23:20:03.004296,Melinda Bowman,06:29:44,"Jamesside, Arkansas, Moldova - 23469",1.0,Debit Card,,,,,,
+ELEC-LAP-0010,,,,,,,,,2025-04-07 00:42:58.455309,Andrea Watson,22:15:12,"North Connieborough, Connecticut, Heard Island and McDonald Islands - 44778",5.0,Credit Card,,,,,,
+APPR-SHT-0002,,,,,,,,,2025-05-02 18:35:15.832475,Elizabeth Williams,17:01:37,"North Isaacbury, California, Timor-Leste - 05895",2.0,Paypal,,,,,,
+ELEC-CAM-0001,,,,,,,,,2025-04-28 04:39:22.295362,Sandra Farrell,09:11:47,"New Timothy, North Dakota, United Arab Emirates - 95761",3.0,Debit Card,,,,,,
+GROC-SNK-0008,,,,,,,,,2025-04-20 06:02:19.116676,Deanna Knight,09:33:03,"North Sara, West Virginia, Ethiopia - 08485",2.0,Credit Card,,,,,,
+APPR-SHS-0005,,,,,,,,,2025-04-08 09:40:29.820643,David Anderson,22:49:02,"Stephenside, Florida, Hong Kong - 41312",3.0,Debit Card,,,,,,
+APPR-SHT-0003,,,,,,,,,2025-04-04 10:56:19.150171,Kimberly King,14:40:04,"Port Jenniferfurt, Nebraska, Poland - 48496",3.0,Paypal,,,,,,
+APPR-SHT-0005,,,,,,,,,2025-04-13 04:37:26.157021,Frank Young,04:01:28,"North Coreyland, Connecticut, El Salvador - 43737",2.0,Credit Card,,,,,,
+AUTO-FIL-0006,,,,,,,,,2025-04-09 06:05:46.411728,Jill Cook,11:17:56,"Diazville, Michigan, Tokelau - 57930",5.0,Paypal,,,,,,
+FURN-DSK-0006,,,,,,,,,2025-04-24 22:01:42.378903,William Padilla,16:54:28,"Port Jasonland, Georgia, Norfolk Island - 33762",2.0,Debit Card,,,,,,
+GROC-VEG-0001,,,,,,,,,2025-04-27 09:32:24.884905,Andrea Wilson,17:54:05,"Nancymouth, Maryland, Argentina - 70733",3.0,Credit Card,,,,,,
+ELEC-SM-0001,,,,,,,,,2025-04-15 17:27:37.205696,Robert Miller,21:55:42,"New Leslie, New Hampshire, Tanzania - 03941",2.0,Debit Card,,,,,,
+AUTO-OIL-0006,,,,,,,,,2025-05-01 02:48:09.355052,David Martin,05:14:05,"Diazborough, Alabama, Malawi - 14627",5.0,Debit Card,,,,,,
+ELEC-LAP-0002,,,,,,,,,2025-04-22 23:30:26.316046,Dawn Zavala,05:45:07,"South Davidport, Pennsylvania, Cyprus - 18406",3.0,Credit Card,,,,,,
+GROC-VEG-0008,,,,,,,,,2025-05-01 04:52:45.587978,Bradley Jones,13:33:19,"Huffmanfurt, Alaska, Cuba - 47808",5.0,Paypal,,,,,,
+GROC-BEV-0001,,,,,,,,,2025-04-24 08:00:10.638927,Bradley Roberts,00:05:12,"Michaelstad, Maryland, Argentina - 70876",2.0,Debit Card,,,,,,
+FURN-CHR-0005,,,,,,,,,2025-04-18 07:56:12.739789,Jeremiah Brown,00:46:11,"Middletonmouth, Mississippi, Cayman Islands - 23822",4.0,Debit Card,,,,,,
+ELEC-LAP-0004,Electronics,Laptops,"$1,077.98",,,Supplier_9,,,2025-04-26 18:30:18.397769,Holly Garza,21:16:27,"North Josephmouth, Texas, Mayotte - 14361",1.0,Debit Card,Perez Ltd,ohT-65103710,2025-04-26,2025-05-02,2025-05-02,Delivered
+GROC-BEV-0007,Groceries,Beverages,$413.55,,,"Supplier_10, Supplier_4",,,2025-04-25 04:39:59.312418,Christina Daniel,13:18:15,"South Mariamouth, California, Tajikistan - 70122",5.0,Paypal,Jenkins-Spence,ncp-37245090,2025-04-25,2025-05-02,2025-05-03,Delayed
+ELEC-LAP-0002,Electronics,Laptops,"$1,323.25",,,Supplier_7,,,2025-04-11 09:54:17.196556,Jennifer Ray,13:54:45,"Lake Mary, Nevada, Azerbaijan - 56926",1.0,Credit Card,"Bennett, Dawson and Gonzales",AdT-48567892,2025-04-13,2025-04-15,2025-04-15,Delivered
+FURN-CHR-0002,Furniture,Chairs,$50.51,,,Supplier_9,,,2025-04-16 12:44:17.713403,Jeff Hernandez,08:51:55,"Derekburgh, Maryland, Afghanistan - 01237",5.0,Paypal,Parks Group,Vxm-08351377,2025-04-17,2025-04-20,,Cancelled
+ELEC-CAM-0006,Electronics,Cameras,$626.81,,,Supplier_6,,,2025-04-14 16:01:20.812293,Jared Sanchez,13:56:13,"West Dawnton, Minnesota, Montenegro - 86077",1.0,Debit Card,Walker Inc,oKC-94453999,2025-04-15,2025-04-21,,In Transit
+GROC-VEG-0008,Groceries,Vegetables,$689.03,,,Supplier_2,,,2025-04-04 23:51:10.103614,Terry Parker,06:22:04,"South Lori, Oregon, Micronesia - 95699",5.0,Credit Card,House-Richards,koE-23681071,2025-04-04,2025-04-09,2025-04-11,Delayed
+GROC-BEV-0009,Groceries,Beverages,$949.25,,,Supplier_7,,,2025-04-30 23:59:22.511366,Charles Matthews,10:32:12,"Port Nicole, Alabama, Lesotho - 62086",5.0,Credit Card,Johnston Ltd,Zxn-98792228,2025-04-30,2025-05-04,2025-05-04,Delivered
+FURN-BED-0007,Furniture,Beds,$484.75,,,"Supplier_9, Supplier_4",,,2025-04-04 05:35:12.961686,Kimberly Thompson,04:13:16,"West Bryan, Nevada, Gambia - 35832",3.0,Paypal,Walters LLC,hvp-83693320,2025-04-06,2025-04-11,2025-04-11,Delivered
+ELEC-CAM-0002,Electronics,Cameras,$843.62,,,"Supplier_2, Supplier_10",,,2025-04-10 20:49:12.722753,Emily Perez,22:27:03,"Caitlinland, Florida, Dominica - 92918",3.0,Debit Card,Yates LLC,wND-69301966,2025-04-12,2025-04-16,2025-04-16,Delivered
+APPR-SHT-0001,Apparel,Shirts,"$1,160.53",,,Supplier_10,,,2025-04-07 15:00:08.555845,Joel Johnston,20:03:57,"Port Cynthia, Oregon, Cook Islands - 20218",4.0,Paypal,Peterson-Smith,WxH-55990987,2025-04-07,2025-04-13,2025-04-13,Delivered
+FURN-CAB-0004,Furniture,Cabinets,"$1,497.71",,,Supplier_8,,,2025-04-23 19:19:34.572519,Aaron Sanchez,05:29:38,"North Kellytown, New York, Maldives - 10489",2.0,Paypal,Graves Ltd,bSP-14441500,2025-04-25,2025-04-29,2025-05-01,Delayed
+APPR-SHS-0005,Apparel,Shoes,"$1,111.78",,,Supplier_5,,,2025-04-21 19:25:43.491810,Dr. Gregory Ruiz,10:02:25,"Davieston, Missouri, American Samoa - 50577",3.0,Debit Card,Zavala-Butler,VaT-12635741,2025-04-23,2025-04-30,2025-04-30,Delivered
+AUTO-FIL-0005,Automotive,Filters,$282.10,,,Supplier_3,,,2025-04-04 01:13:25.389631,Lisa Cooper,13:18:48,"Port Steven, Arkansas, French Southern Territories - 44688",3.0,Debit Card,"Boone, Stokes and Torres",ohp-39767318,2025-04-04,2025-04-10,2025-04-10,Delivered
+APPR-SHT-0010,Apparel,Shirts,"$1,275.61",,,"Supplier_5, Supplier_4",,,2025-04-03 21:08:00.631616,Bobby Fuentes,22:02:00,"Jamesbury, New Jersey, Comoros - 52959",1.0,Debit Card,"Humphrey, Solomon and Brown",dhw-53536122,2025-04-04,2025-04-07,2025-04-07,Delivered
+APPR-SHT-0009,Apparel,Shirts,$838.60,,,"Supplier_6, Supplier_8",,,2025-05-02 01:17:02.535310,John Chapman,11:17:35,"South Travisstad, New York, Bahrain - 49068",2.0,Debit Card,Martin-Farmer,zPj-74201076,2025-05-04,2025-05-06,,Out for Delivery
+GROC-VEG-0001,Groceries,Vegetables,"$1,578.70",,,"Supplier_8, Supplier_6",,,2025-04-16 19:17:28.293935,Joshua Castro,20:03:06,"South Eric, California, American Samoa - 97578",2.0,Paypal,"Thompson, Williamson and Robinson",tvx-52261862,2025-04-16,2025-04-21,,Cancelled
+AUTO-BAT-0005,Automotive,Batteries,$305.29,,,Supplier_6,,,2025-04-19 13:25:34.853595,Benjamin Tapia,20:17:48,"South Robertton, North Carolina, Mauritania - 70747",3.0,Paypal,"Moreno, Ross and Smith",UJS-16482708,2025-04-20,2025-04-25,2025-04-28,Delayed
+GROC-BEV-0009,Groceries,Beverages,$949.25,,,Supplier_7,,,2025-04-28 14:35:15.989050,Joshua Williams,00:26:16,"Jimmyview, Georgia, French Guiana - 17765",1.0,Credit Card,Barber LLC,hss-56970514,2025-04-29,2025-05-03,,Cancelled
+AUTO-BAT-0005,Automotive,Batteries,$305.29,,,Supplier_6,,,2025-04-10 05:18:55.001052,Cassandra Barber,03:46:56,"Keithfurt, Tennessee, Tuvalu - 87808",5.0,Debit Card,Warren LLC,YQE-95599922,2025-04-10,2025-04-16,,Out for Delivery
+APPR-JKT-0001,Apparel,Jackets,$572.79,,,Supplier_4,,,2025-04-21 20:40:21.720615,Amber Gregory,05:13:44,"New Sandrafort, Utah, Guadeloupe - 09475",3.0,Credit Card,Wolf and Sons,HdG-53747845,2025-04-21,2025-04-27,,Cancelled
+AUTO-OIL-0002,Automotive,Oil,"$1,570.51",,,Supplier_5,,,2025-04-30 11:05:44.104498,Whitney Ray,01:39:47,"Watkinsshire, Florida, American Samoa - 87413",2.0,Paypal,"Owen, Miller and Barnes",UlF-84364720,2025-05-02,2025-05-07,,In Transit
+GROC-BEV-0004,Groceries,Beverages,$501.70,,,Supplier_8,,,2025-04-19 04:22:32.499102,David Williams,08:02:59,"Hernandezland, South Dakota, Palau - 14821",1.0,Debit Card,"Casey, Norman and Robinson",Bun-97545902,2025-04-20,2025-04-25,2025-04-25,Delivered
+FURN-CAB-0003,Furniture,Cabinets,"$1,337.57",,,Supplier_7,,,2025-05-03 09:07:40.775762,Ashley Jenkins,22:23:50,"South Robertburgh, Iowa, Fiji - 65293",1.0,Credit Card,Jones-White,EcJ-55494945,2025-05-03,2025-05-09,,In Transit
+ELEC-SM-0003,Electronics,Smartphones,"$1,475.56",,,Supplier_3,,,2025-04-05 06:10:10.905060,Sarah Camacho,01:21:13,"Rachelhaven, Texas, Taiwan - 30133",2.0,Credit Card,Ball Inc,QtJ-25589711,2025-04-06,2025-04-08,2025-04-08,Delivered
+ELEC-TAB-0001,Electronics,Tablets,"$1,659.04",,,Supplier_6,,,2025-04-26 22:05:16.802866,Danielle Chapman,07:24:39,"Williamston, Pennsylvania, Italy - 66934",4.0,Credit Card,"Powell, Davis and Peterson",PjC-84999719,2025-04-26,2025-05-01,2025-05-02,Delayed
+ELEC-LAP-0003,Electronics,Laptops,"$1,804.80",,,"Supplier_1, Supplier_4",,,2025-04-08 03:29:45.498580,Kathleen Nelson,20:40:09,"South Joshua, Utah, Vanuatu - 52121",4.0,Debit Card,Newton Group,rgQ-67243127,2025-04-08,2025-04-11,,In Transit
+GROC-BEV-0005,Groceries,Beverages,$787.19,,,"Supplier_6, Supplier_10",,,2025-04-04 14:34:39.007061,Felicia Nelson,22:05:31,"Port Laurastad, California, Cocos (Keeling) Islands - 26126",3.0,Credit Card,Davis Ltd,qnP-90550121,2025-04-04,2025-04-11,2025-04-11,Delivered
+AUTO-FIL-0003,Automotive,Filters,$680.63,,,"Supplier_2, Supplier_10",,,2025-04-07 17:10:07.042459,Brandon Castro,10:53:45,"Hatfieldview, Illinois, Greece - 80112",2.0,Paypal,Pierce Ltd,xBM-18934703,2025-04-09,2025-04-12,2025-04-12,Delivered
+GROC-SNK-0003,Groceries,Snacks,$408.07,,,"Supplier_6, Supplier_7",,,2025-04-20 06:20:02.295870,Mary Ramos,02:58:56,"Alvaradochester, Delaware, Holy See (Vatican City State) - 11625",1.0,Paypal,Thomas-Warren,PzV-00373287,2025-04-20,2025-04-23,2025-04-23,Delivered
+FURN-CHR-0007,Furniture,Chairs,$331.68,,,Supplier_3,,,2025-05-02 18:13:53.149098,Michael Martin,11:36:44,"North Tammy, Washington, Belize - 50274",1.0,Credit Card,"Miller, Ramos and Poole",WVi-47183806,2025-05-02,2025-05-04,2025-05-07,Delayed
+ELEC-CAM-0004,Electronics,Cameras,$181.78,,,Supplier_2,,,2025-04-22 20:53:50.142863,Mary Smith,00:43:53,"North Sean, Oregon, Djibouti - 23806",3.0,Credit Card,"Suarez, Morris and Parker",TNa-18904361,2025-04-24,2025-04-29,,Cancelled
+APPR-SHS-0003,Apparel,Shoes,$436.33,,,"Supplier_3, Supplier_2",,,2025-04-30 16:09:02.375671,Keith Rasmussen,16:12:05,"Carterview, New York, Sudan - 06664",5.0,Debit Card,Lee-Winters,zXq-25168493,2025-05-02,2025-05-08,,Processing
+GROC-VEG-0003,Groceries,Vegetables,$662.29,,,"Supplier_5, Supplier_6",,,2025-04-25 13:09:39.074006,Craig Montoya,19:34:33,"Anatown, Georgia, Palau - 58475",1.0,Debit Card,"Barnes, Rodriguez and King",agF-46748714,2025-04-26,2025-04-29,,Out for Delivery
+ELEC-LAP-0001,Electronics,Laptops,$493.64,,,Supplier_10,,,2025-04-07 08:36:52.671843,Kelly Weaver,09:14:18,"North Luis, Tennessee, Samoa - 56601",3.0,Debit Card,Clark PLC,hwT-57037900,2025-04-08,2025-04-11,2025-04-11,Delivered
+APPR-JKT-0003,Apparel,Jackets,"$1,414.27",,,Supplier_3,,,2025-05-02 05:01:13.480264,Edward Weber,17:58:32,"Lemouth, Connecticut, Ireland - 67697",2.0,Credit Card,"Moses, Mathis and Hansen",INI-59295070,2025-05-04,2025-05-07,,Cancelled
+FURN-BED-0003,Furniture,Beds,"$1,275.81",,,Supplier_9,,,2025-04-29 10:22:02.278278,Travis Olson,21:41:07,"Ramseyshire, Colorado, Poland - 71488",3.0,Credit Card,Randolph-Potts,UUP-41667918,2025-04-29,2025-05-04,2025-05-04,Delivered
+AUTO-FIL-0008,Automotive,Filters,$856.33,,,Supplier_1,,,2025-04-09 06:27:28.712419,Tammy Hampton,15:51:24,"Estesmouth, Iowa, Kiribati - 91018",4.0,Credit Card,Nash-Garrett,yhu-78298308,2025-04-10,2025-04-17,,In Transit
+ELEC-CAM-0008,Electronics,Cameras,$108.09,,,Supplier_3,,,2025-04-04 08:51:09.858814,Justin Hawkins,06:45:49,"Port Brianna, Rhode Island, Martinique - 78384",4.0,Credit Card,"Ramsey, Anderson and Phillips",PRz-32727140,2025-04-04,2025-04-10,,Processing
+ELEC-CAM-0003,Electronics,Cameras,"$1,775.69",,,"Supplier_6, Supplier_10",,,2025-04-29 23:49:45.233637,Anthony Fox,05:45:26,"Lake Cesar, Rhode Island, Saint Martin - 86058",5.0,Debit Card,"Juarez, Reyes and Valdez",hww-90140307,2025-04-30,2025-05-04,,Order Received
+GROC-FRT-0001,Groceries,Fruits,$554.72,,,"Supplier_1, Supplier_2",,,2025-04-25 20:21:01.910768,Nicholas Taylor,07:04:17,"Natashastad, New York, Malawi - 49794",1.0,Paypal,Roberts PLC,loz-59107303,2025-04-26,2025-04-28,,Cancelled
+FURN-BED-0003,Furniture,Beds,"$1,275.81",,,Supplier_9,,,2025-04-26 22:36:36.247875,Sarah Gray,04:07:46,"Lake Anthony, Maryland, Puerto Rico - 50757",2.0,Credit Card,Knapp-Fields,Ghr-75526531,2025-04-28,2025-05-03,2025-05-05,Delayed
+GROC-FRT-0004,Groceries,Fruits,"$1,392.07",,,"Supplier_1, Supplier_6",,,2025-04-17 08:54:05.613599,Donald Patel,23:59:07,"Tuckerburgh, North Dakota, Papua New Guinea - 03675",5.0,Credit Card,"Lewis, Harrison and Nelson",ksI-60800940,2025-04-19,2025-04-24,,In Transit
+AUTO-FIL-0004,Automotive,Filters,"$1,246.55",,,"Supplier_3, Supplier_2",,,2025-05-02 22:52:11.280333,Christopher Little,02:51:47,"South Russell, California, Luxembourg - 70123",2.0,Paypal,Rubio and Sons,MAo-04778925,2025-05-04,2025-05-07,2025-05-07,Delivered
+ELEC-TAB-0002,Electronics,Tablets,"$1,581.06",,,Supplier_5,,,2025-04-05 02:51:35.823012,Lawrence Bailey,02:54:49,"Jessicamouth, North Dakota, Estonia - 03248",3.0,Debit Card,"Gutierrez, Davis and Mann",vYW-63984671,2025-04-07,2025-04-13,,In Transit
+AUTO-FIL-0008,Automotive,Filters,$856.33,,,Supplier_1,,,2025-04-06 02:34:15.632084,Lucas Henderson,15:09:49,"Troyfort, Florida, Norfolk Island - 66273",4.0,Credit Card,Paul PLC,AWj-25972944,2025-04-08,2025-04-13,,In Transit
+FURN-CAB-0005,Furniture,Cabinets,$181.83,,,Supplier_6,,,2025-04-12 15:43:18.836532,Theresa Zimmerman,06:06:51,"Lake Michael, New York, Norway - 85141",4.0,Debit Card,"Pineda, Diaz and Harris",iqp-52767767,2025-04-14,2025-04-17,,Out for Delivery
+FURN-CHR-0009,Furniture,Chairs,$627.34,,,Supplier_1,,,2025-04-18 00:40:28.178604,Kristen Pierce,06:24:02,"South Deborah, Tennessee, Libyan Arab Jamahiriya - 84252",5.0,Credit Card,Perez and Sons,lnK-49693493,2025-04-19,2025-04-25,2025-04-25,Delivered
+APPR-JNS-0002,Apparel,Jeans,$545.89,,,Supplier_8,,,2025-04-28 01:23:14.574011,Rachael Foster,09:14:20,"New Jasonshire, Wyoming, Equatorial Guinea - 29353",4.0,Paypal,"Smith, Scott and Butler",Dyq-78809314,2025-04-30,2025-05-04,2025-05-04,Delivered
+FURN-BED-0001,Furniture,Beds,$289.49,,,Supplier_7,,,2025-04-04 10:23:33.646919,Carrie Freeman,18:17:29,"West Brittney, Virginia, Azerbaijan - 94842",3.0,Credit Card,"Friedman, Perkins and Garza",AAl-66915638,2025-04-06,2025-04-13,2025-04-14,Delayed
+APPR-SHT-0009,Apparel,Shirts,$838.60,,,"Supplier_6, Supplier_8",,,2025-04-11 05:47:27.987276,Alexis Avila,13:37:39,"Port Alexandriamouth, Nevada, Comoros - 33103",5.0,Credit Card,"Perez, Kelly and Brown",Nkg-96973549,2025-04-11,2025-04-17,2025-04-17,Delivered
+GROC-FRT-0004,Groceries,Fruits,"$1,392.07",,,"Supplier_1, Supplier_6",,,2025-04-18 07:49:30.498482,Erica Cole,03:36:55,"East Christianchester, Vermont, Sudan - 21399",3.0,Paypal,Gibson Ltd,ToZ-80098993,2025-04-18,2025-04-25,2025-04-25,Delivered
+FURN-CHR-0002,Furniture,Chairs,$50.51,,,Supplier_9,,,2025-04-30 13:06:50.800096,Nicholas Jackson,22:18:18,"Alyssaville, New Hampshire, Qatar - 43486",3.0,Paypal,Hurst-Lynch,MTT-16292022,2025-04-30,2025-05-06,2025-05-06,Delivered
+FURN-BED-0004,Furniture,Beds,$647.14,,,"Supplier_10, Supplier_2",,,2025-04-06 20:28:43.636363,Paige Li,13:53:22,"East Ryanmouth, Utah, Germany - 56507",5.0,Credit Card,"Gillespie, Bright and Olson",QhZ-62946120,2025-04-07,2025-04-10,2025-04-10,Delivered
+GROC-FRT-0001,Groceries,Fruits,$554.72,,,"Supplier_1, Supplier_2",,,2025-04-22 04:05:11.122287,Troy Rodriguez,18:10:36,"Lake Billyside, West Virginia, Peru - 48545",2.0,Credit Card,"Ross, Campbell and Rodriguez",BGA-14860726,2025-04-22,2025-04-27,,In Transit
+APPR-SHS-0002,Apparel,Shoes,$390.74,,,Supplier_5,,,2025-04-28 20:16:26.673239,Perry Long,16:55:41,"Williamsland, Tennessee, Norfolk Island - 04273",1.0,Paypal,Tran-Scott,AtQ-11056187,2025-04-28,2025-05-05,,In Transit
+ELEC-CAM-0003,Electronics,Cameras,"$1,775.69",,,"Supplier_6, Supplier_10",,,2025-04-08 16:19:44.023175,Linda Gill,02:30:17,"North Brandon, Indiana, Singapore - 52061",4.0,Debit Card,Olson Ltd,mJs-32114758,2025-04-10,2025-04-12,,In Transit
+AUTO-FIL-0006,Automotive,Filters,$771.81,,,Supplier_2,,,2025-04-11 19:44:22.137605,Caroline Graham,18:52:47,"New Dominiquemouth, Michigan, Saint Kitts and Nevis - 14393",4.0,Paypal,"Padilla, Duncan and Schwartz",Syt-85763135,2025-04-12,2025-04-18,2025-04-18,Delivered
+APPR-SHS-0008,Apparel,Shoes,$51.01,,,"Supplier_4, Supplier_2",,,2025-04-24 07:08:36.385033,Kevin Andrews,07:27:23,"Curryport, Wyoming, Philippines - 86170",2.0,Credit Card,Cruz Group,VBz-68767861,2025-04-25,2025-04-30,,In Transit
+APPR-SHT-0005,Apparel,Shirts,$867.24,,,"Supplier_1, Supplier_3",,,2025-04-17 00:54:04.785872,Vicki Lang,00:24:49,"Ryanside, Oklahoma, Denmark - 33674",2.0,Paypal,"Mack, Yu and Gill",BUR-74885141,2025-04-18,2025-04-22,,In Transit
+APPR-SHS-0007,Apparel,Shoes,$755.58,,,Supplier_9,,,2025-05-03 05:28:13.051411,Tina Bell,10:36:45,"North Nicholaston, Tennessee, Iraq - 59662",1.0,Debit Card,Armstrong PLC,JbB-73747214,2025-05-04,2025-05-10,,Order Received
+AUTO-FIL-0009,Automotive,Filters,$796.77,,,Supplier_7,,,2025-05-01 08:03:50.359177,Brett Campos,19:52:05,"Walkerborough, Delaware, Estonia - 39795",2.0,Paypal,"Jones, Bailey and Pearson",hRU-81150376,2025-05-01,2025-05-07,,Cancelled
+APPR-JNS-0001,Apparel,Jeans,$459.48,,,Supplier_7,,,2025-04-27 15:59:45.163734,Ryan Robinson,02:53:38,"Walkerberg, Washington, Niger - 44271",1.0,Paypal,Cain-Hansen,oVT-33227369,2025-04-28,2025-05-02,,Cancelled
+AUTO-FIL-0003,Automotive,Filters,$680.63,,,"Supplier_2, Supplier_10",,,2025-04-07 00:03:45.542616,Jonathan Hill,23:27:13,"Christopherfort, Wisconsin, Cape Verde - 83781",3.0,Credit Card,"Farrell, Nunez and Ruiz",MRc-22810458,2025-04-09,2025-04-13,2025-04-13,Delivered
+APPR-SHS-0001,Apparel,Shoes,$959.30,,,"Supplier_9, Supplier_6",,,2025-04-22 07:48:39.600993,Sarah Lee DDS,09:46:37,"West Jerryview, Texas, Cambodia - 23873",4.0,Paypal,Chambers Inc,bTa-70762522,2025-04-22,2025-04-28,,In Transit
+ELEC-CAM-0004,Electronics,Cameras,$181.78,,,Supplier_2,,,2025-04-13 11:49:44.144876,Jane Vargas,17:55:43,"Lake Joseph, Virginia, Marshall Islands - 26536",4.0,Credit Card,Brown-Walters,nwr-42333963,2025-04-15,2025-04-22,2025-04-22,Delivered
+FURN-CHR-0006,Furniture,Chairs,$150.69,,,Supplier_2,,,2025-04-19 01:14:38.032665,Christopher Fisher,10:33:13,"Lake Kristine, Virginia, Korea - 25316",2.0,Debit Card,Myers PLC,WRW-89063368,2025-04-20,2025-04-24,,Order Received
+ELEC-LAP-0003,Electronics,Laptops,"$1,804.80",,,"Supplier_1, Supplier_4",,,2025-04-04 08:25:14.137678,Mary Simon,09:25:36,"East George, Utah, Taiwan - 54534",5.0,Paypal,Bailey-Perez,unm-31990888,2025-04-04,2025-04-06,2025-04-06,Delivered
+GROC-FRT-0006,Groceries,Fruits,"$1,504.54",,,Supplier_8,,,2025-04-08 05:36:09.933578,Kimberly Morris,00:59:18,"New Jeremyside, Georgia, Pakistan - 36785",2.0,Credit Card,Conner Inc,GCw-66747154,2025-04-08,2025-04-14,2025-04-14,Delivered
+FURN-BED-0004,Furniture,Beds,$647.14,,,"Supplier_10, Supplier_2",,,2025-04-28 05:44:12.233387,Jonathan Rogers,04:51:37,"West Billy, Kentucky, Nepal - 10041",2.0,Paypal,"Garrett, Garcia and Higgins",VoI-11901617,2025-04-28,2025-05-04,,In Transit
+APPR-JNS-0002,Apparel,Jeans,$545.89,,,Supplier_8,,,2025-04-29 07:20:27.912981,Christopher Moore II,02:56:13,"North Brandonmouth, Montana, Cambodia - 72884",3.0,Credit Card,Brown-Jennings,Qop-08057297,2025-04-29,2025-05-03,2025-05-03,Delivered
+AUTO-FIL-0008,Automotive,Filters,$856.33,,,Supplier_1,,,2025-04-26 11:26:41.979893,David Armstrong,07:34:24,"New Manuel, Mississippi, Myanmar - 64230",1.0,Credit Card,Joseph and Sons,YYL-55282034,2025-04-26,2025-05-01,,Out for Delivery
+APPR-SHS-0003,Apparel,Shoes,$436.33,,,"Supplier_3, Supplier_2",,,2025-04-27 10:58:44.941096,Katherine Reynolds,20:21:54,"East Michellefort, New Hampshire, Peru - 23834",4.0,Paypal,Hall-Stewart,jQf-23525616,2025-04-27,2025-04-29,,Processing
+AUTO-FIL-0002,Automotive,Filters,$922.24,,,Supplier_3,,,2025-04-25 05:36:42.536989,Matthew Hoffman,17:38:50,"South Michele, Michigan, Gabon - 24623",3.0,Credit Card,"Gonzalez, Coleman and Guerrero",PeU-99631364,2025-04-27,2025-05-02,,Order Received
+APPR-JKT-0002,Apparel,Jackets,"$1,163.29",,,Supplier_3,,,2025-05-02 15:57:01.501974,Katherine Fields,06:55:47,"Miguelstad, Ohio, Myanmar - 27680",1.0,Debit Card,"Clay, Doyle and Powers",etj-47150519,2025-05-04,2025-05-10,,Cancelled
+ELEC-CAM-0008,Electronics,Cameras,$108.09,,,Supplier_3,,,2025-04-25 00:04:59.110414,Stephanie Perez,05:01:43,"East Michaelburgh, North Dakota, Kuwait - 48049",3.0,Paypal,Evans Ltd,Tni-25533888,2025-04-25,2025-05-01,,Cancelled
+AUTO-TIR-0004,Automotive,Tires,$514.26,,,Supplier_2,,,2025-04-24 10:59:32.423071,Thomas Johnson,16:27:03,"Thomastown, Tennessee, Australia - 10058",5.0,Paypal,Cisneros-Campbell,zlF-72746879,2025-04-25,2025-04-30,,In Transit
+APPR-JNS-0001,Apparel,Jeans,$459.48,,,Supplier_7,,,2025-04-16 08:45:21.603468,Jeffrey Odonnell,18:46:53,"Smithburgh, Michigan, Pakistan - 31845",1.0,Credit Card,Holt-Joseph,lQA-84386733,2025-04-16,2025-04-20,2025-04-20,Delivered
+ELEC-SM-0007,Electronics,Smartphones,$524.44,,,"Supplier_4, Supplier_2",,,2025-04-14 17:49:47.882919,Caroline Singleton,18:07:15,"North Corey, Michigan, Chile - 77106",3.0,Debit Card,Harper Inc,rBq-87492672,2025-04-15,2025-04-22,,Cancelled
+GROC-BEV-0006,Groceries,Beverages,"$1,119.67",,,Supplier_6,,,2025-04-11 17:45:59.426647,Nicholas Raymond,23:08:47,"West Kimberlyville, Kansas, United Kingdom - 46920",3.0,Credit Card,Williams Group,kVr-14006802,2025-04-13,2025-04-17,2025-04-17,Delivered
+GROC-VEG-0008,Groceries,Vegetables,$689.03,,,Supplier_2,,,2025-04-21 10:57:19.669094,Lauren Roy,18:54:50,"Maryport, New Hampshire, Singapore - 53962",1.0,Debit Card,Reynolds Ltd,KWm-37045510,2025-04-23,2025-04-26,,In Transit
+APPR-JKT-0001,Apparel,Jackets,$572.79,,,Supplier_4,,,2025-04-10 17:06:57.036800,Caitlin Davis,01:40:13,"Websterside, Illinois, Grenada - 70194",2.0,Credit Card,Robertson-Dawson,RUt-65864787,2025-04-12,2025-04-17,,In Transit
+ELEC-LAP-0007,Electronics,Laptops,$228.88,,,Supplier_2,,,2025-04-20 10:07:12.701336,Madison Klein,01:08:35,"Lake Ronaldfurt, Vermont, Albania - 82573",1.0,Paypal,Keller-Reeves,ZOm-95993162,2025-04-21,2025-04-25,,Out for Delivery
+ELEC-TAB-0002,Electronics,Tablets,"$1,581.06",,,Supplier_5,,,2025-04-11 12:34:25.629047,Dr. Felicia Parker DDS,04:04:55,"Lake James, Alabama, Saint Vincent and the Grenadines - 09753",1.0,Credit Card,"Johnson, Reed and Thompson",gSJ-03539555,2025-04-13,2025-04-15,2025-04-15,Delivered
+ELEC-CAM-0009,Electronics,Cameras,$122.44,,,Supplier_1,,,2025-04-05 11:08:19.717434,James Lynch,02:53:37,"Melissafort, Ohio, Belgium - 80798",2.0,Credit Card,Moran and Sons,fSJ-93765385,2025-04-07,2025-04-10,2025-04-10,Delivered
+FURN-CAB-0004,Furniture,Cabinets,"$1,497.71",,,Supplier_8,,,2025-04-10 12:19:16.980443,Mercedes Lee,04:47:07,"North Ashley, North Dakota, United Arab Emirates - 42195",4.0,Debit Card,Anderson-Johnson,ODb-55208466,2025-04-10,2025-04-14,2025-04-14,Delivered
+ELEC-CAM-0009,Electronics,Cameras,$122.44,,,Supplier_1,,,2025-05-02 12:09:12.375799,John Gibson,20:50:53,"Delgadomouth, Maine, Malta - 34577",1.0,Credit Card,Mills-Richardson,AIz-03175597,2025-05-03,2025-05-08,,In Transit
+GROC-FRT-0005,Groceries,Fruits,"$1,046.64",,,Supplier_10,,,2025-04-24 08:02:32.809273,Jeffrey Willis,08:43:04,"Elizabethville, New Mexico, Vanuatu - 92896",2.0,Debit Card,Barron Ltd,qwS-39102061,2025-04-24,2025-04-26,2025-04-26,Delivered
+AUTO-FIL-0004,Automotive,Filters,"$1,246.55",,,"Supplier_3, Supplier_2",,,2025-04-27 05:58:12.391776,Marcus Rojas,20:50:04,"Robinsonside, South Dakota, Ethiopia - 97054",1.0,Credit Card,"Morrison, Miller and Howe",Csw-51819707,2025-04-28,2025-05-04,,Processing
+FURN-CHR-0006,Furniture,Chairs,$150.69,,,Supplier_2,,,2025-04-21 14:54:07.081769,Patrick Young,07:02:56,"East Anthonyview, Pennsylvania, American Samoa - 29994",3.0,Paypal,"Byrd, Beck and Gardner",OfN-18418681,2025-04-23,2025-04-29,2025-04-29,Delivered
+FURN-CHR-0003,Furniture,Chairs,$382.85,,,Supplier_8,,,2025-04-27 13:49:05.415897,Jeffrey Fleming,19:44:38,"Sheilastad, Louisiana, Australia - 74381",3.0,Credit Card,"Taylor, Shepard and Blake",zLe-74730322,2025-04-29,2025-05-04,,Processing
+APPR-SHS-0001,Apparel,Shoes,$959.30,,,"Supplier_9, Supplier_6",,,2025-04-19 00:20:29.845891,Angela Smith,17:24:11,"Port Pedro, Wyoming, Tonga - 18132",2.0,Paypal,"Monroe, Berry and Ryan",JiD-48675316,2025-04-21,2025-04-24,2025-04-24,Delivered
+APPR-SHS-0003,Apparel,Shoes,$436.33,,,"Supplier_3, Supplier_2",,,2025-05-02 06:02:26.882653,Richard Raymond DVM,02:36:32,"Clarkshire, New Jersey, British Virgin Islands - 66069",3.0,Credit Card,Banks-Holmes,LSm-50747073,2025-05-04,2025-05-08,,In Transit
+FURN-CHR-0003,Furniture,Chairs,$382.85,,,Supplier_8,,,2025-05-02 13:34:33.264467,Glenn Sanchez,12:52:30,"Michaelside, Missouri, Qatar - 73507",3.0,Debit Card,Ward-Clayton,Bte-96088138,2025-05-04,2025-05-09,,Cancelled
+ELEC-SM-0004,Electronics,Smartphones,"$1,206.10",,,Supplier_7,,,2025-04-17 10:21:42.498192,Brenda Clark,21:56:42,"Kramerfurt, North Carolina, Sudan - 98305",3.0,Credit Card,Leon PLC,glq-43224788,2025-04-19,2025-04-25,2025-04-25,Delivered
+APPR-SHT-0011,Apparel,Shirts,"$1,331.58",,,"Supplier_1, Supplier_3",,,2025-04-20 04:29:41.317422,Stephanie Baker,08:37:21,"Meyerstown, Washington, Gabon - 05108",3.0,Debit Card,Moore-Simmons,ZUA-83095479,2025-04-20,2025-04-27,,Processing
+ELEC-SM-0009,Electronics,Smartphones,"$1,100.54",,,"Supplier_2, Supplier_7",,,2025-04-23 16:22:16.875643,Michael Porter,09:26:33,"Davidberg, North Carolina, Solomon Islands - 89855",1.0,Credit Card,Hendrix-Martinez,FTu-99310702,2025-04-23,2025-04-28,2025-04-28,Delivered
+AUTO-TIR-0003,Automotive,Tires,"$1,035.24",,,"Supplier_9, Supplier_2",,,2025-04-18 05:56:21.634702,Kimberly Martin,20:04:03,"New Angela, Oregon, Tuvalu - 50109",3.0,Credit Card,Taylor PLC,Phm-19202165,2025-04-19,2025-04-23,2025-04-26,Delayed
+ELEC-CAM-0005,Electronics,Cameras,$504.93,,,Supplier_5,,,2025-04-20 01:30:42.015751,Miss Jennifer Nash,05:37:45,"North Christopher, Illinois, Botswana - 62664",2.0,Credit Card,Byrd Group,IYs-33785207,2025-04-20,2025-04-27,2025-04-27,Delivered
+FURN-DSK-0005,Furniture,Desks,$274.19,,,Supplier_2,,,2025-04-07 16:02:44.235415,Matthew Strong,15:46:58,"North John, Wyoming, Niue - 61709",3.0,Credit Card,Daniel-Sutton,JTe-73145376,2025-04-09,2025-04-13,2025-04-16,Delayed
+AUTO-OIL-0001,Automotive,Oil,$649.05,,,"Supplier_3, Supplier_9",,,2025-04-30 06:08:34.441113,Stacy Medina,15:24:02,"Lake Nicolemouth, Michigan, Greenland - 86504",1.0,Debit Card,Davis and Sons,nKm-16933502,2025-04-30,2025-05-03,,In Transit
