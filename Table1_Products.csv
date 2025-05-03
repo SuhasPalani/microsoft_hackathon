@@ -1,0 +1,101 @@
+product_id,category,subcategory,list_price,discount,final_price,supplier_count,suppliers,availability,eta
+PDT001,Electronics,Phones,256.99,0.25,192.74,1,Supplier_5,In Stock,2025-05-08
+PDT002,Electronics,Monitors,918.58,0.08,845.09,2,"Supplier_3, Supplier_5",In Stock,2025-05-09
+PDT003,Stationery,Pens,29.99,0.3,20.99,1,Supplier_1,Limited,2025-05-05
+PDT004,Electronics,Phones,257.09,0.06,241.66,2,"Supplier_3, Supplier_2",Out of Stock,2025-05-11
+PDT005,Stationery,Markers,190.41,0.08,175.18,1,Supplier_3,Limited,2025-05-16
+PDT006,Stationery,Pens,693.09,0.26,512.89,1,Supplier_2,In Stock,2025-05-09
+PDT007,Electronics,Monitors,680.93,0.22,531.13,1,Supplier_2,Out of Stock,2025-05-11
+PDT008,Stationery,Notebooks,183.15,0.19,148.35,2,"Supplier_3, Supplier_2",In Stock,2025-05-07
+PDT009,Furniture,Desks,212.65,0.09,193.51,1,Supplier_1,Out of Stock,2025-05-12
+PDT010,Furniture,Chairs,559.53,0.09,509.17,2,"Supplier_5, Supplier_2",In Stock,2025-05-08
+PDT011,Furniture,Chairs,541.95,0.07,504.01,2,"Supplier_5, Supplier_3",In Stock,2025-05-14
+PDT012,Electronics,Phones,538.84,0.15,458.01,1,Supplier_4,In Stock,2025-05-14
+PDT013,Electronics,Monitors,906.29,0.25,679.72,1,Supplier_1,Limited,2025-05-04
+PDT014,Furniture,Desks,175.75,0.04,168.72,2,"Supplier_4, Supplier_2",Out of Stock,2025-05-04
+PDT015,Stationery,Notebooks,537.2,0.13,467.36,1,Supplier_1,In Stock,2025-05-10
+PDT016,Furniture,Chairs,784.0,0.29,556.64,2,"Supplier_1, Supplier_5",Out of Stock,2025-05-08
+PDT017,Stationery,Pens,681.37,0.14,585.98,1,Supplier_2,Out of Stock,2025-05-14
+PDT018,Stationery,Markers,72.06,0.2,57.65,1,Supplier_2,Out of Stock,2025-05-09
+PDT019,Stationery,Notebooks,154.56,0.25,115.92,1,Supplier_5,Out of Stock,2025-05-10
+PDT020,Furniture,Cabinets,280.03,0.15,238.03,2,"Supplier_4, Supplier_5",Out of Stock,2025-05-12
+PDT021,Furniture,Chairs,627.62,0.14,539.75,2,"Supplier_1, Supplier_2",Limited,2025-05-17
+PDT022,Furniture,Desks,504.2,0.23,388.23,2,"Supplier_2, Supplier_3",Limited,2025-05-11
+PDT023,Electronics,Laptops,688.66,0.17,571.59,1,Supplier_2,Limited,2025-05-16
+PDT024,Stationery,Pens,811.4,0.17,673.46,2,"Supplier_4, Supplier_5",Out of Stock,2025-05-17
+PDT025,Furniture,Desks,492.94,0.23,379.56,2,"Supplier_2, Supplier_3",In Stock,2025-05-17
+PDT026,Electronics,Laptops,383.84,0.15,326.26,1,Supplier_2,Out of Stock,2025-05-16
+PDT027,Electronics,Phones,88.65,0.07,82.44,1,Supplier_4,In Stock,2025-05-08
+PDT028,Electronics,Monitors,573.0,0.19,464.13,2,"Supplier_1, Supplier_3",Out of Stock,2025-05-05
+PDT029,Electronics,Phones,101.92,0.25,76.44,2,"Supplier_3, Supplier_5",Limited,2025-05-09
+PDT030,Electronics,Laptops,460.41,0.19,372.93,1,Supplier_5,In Stock,2025-05-13
+PDT031,Electronics,Monitors,882.21,0.02,864.57,1,Supplier_4,In Stock,2025-05-09
+PDT032,Stationery,Notebooks,720.01,0.24,547.21,1,Supplier_5,Out of Stock,2025-05-06
+PDT033,Furniture,Cabinets,220.47,0.29,156.53,1,Supplier_5,Out of Stock,2025-05-07
+PDT034,Stationery,Pens,864.48,0.04,829.9,2,"Supplier_4, Supplier_2",In Stock,2025-05-08
+PDT035,Stationery,Notebooks,810.2,0.13,704.87,2,"Supplier_5, Supplier_3",In Stock,2025-05-08
+PDT036,Furniture,Cabinets,65.5,0.21,51.75,1,Supplier_3,Limited,2025-05-14
+PDT037,Electronics,Monitors,372.69,0.24,283.24,1,Supplier_5,In Stock,2025-05-05
+PDT038,Stationery,Markers,760.32,0.08,699.49,2,"Supplier_4, Supplier_1",Out of Stock,2025-05-06
+PDT039,Electronics,Phones,751.37,0.06,706.29,2,"Supplier_4, Supplier_3",Out of Stock,2025-05-06
+PDT040,Stationery,Markers,592.98,0.03,575.19,1,Supplier_5,Out of Stock,2025-05-13
+PDT041,Stationery,Pens,232.55,0.1,209.3,2,"Supplier_1, Supplier_2",Limited,2025-05-09
+PDT042,Stationery,Notebooks,457.54,0.01,452.96,1,Supplier_5,Limited,2025-05-04
+PDT043,Furniture,Cabinets,453.36,0.01,448.83,2,"Supplier_2, Supplier_4",Out of Stock,2025-05-14
+PDT044,Stationery,Markers,652.31,0.12,574.03,1,Supplier_3,Out of Stock,2025-05-06
+PDT045,Furniture,Desks,384.66,0.24,292.34,2,"Supplier_5, Supplier_2",Out of Stock,2025-05-05
+PDT046,Furniture,Cabinets,743.38,0.01,735.95,1,Supplier_3,Out of Stock,2025-05-12
+PDT047,Stationery,Notebooks,680.33,0.09,619.1,1,Supplier_3,Limited,2025-05-04
+PDT048,Furniture,Cabinets,941.44,0.17,781.4,1,Supplier_2,In Stock,2025-05-14
+PDT049,Furniture,Cabinets,718.28,0.18,588.99,2,"Supplier_4, Supplier_3",Limited,2025-05-04
+PDT050,Stationery,Markers,769.31,0.13,669.3,1,Supplier_5,Out of Stock,2025-05-12
+PDT051,Electronics,Monitors,398.64,0.07,370.74,1,Supplier_1,In Stock,2025-05-06
+PDT052,Furniture,Cabinets,142.84,0.18,117.13,1,Supplier_1,Limited,2025-05-12
+PDT053,Stationery,Markers,686.53,0.21,542.36,2,"Supplier_4, Supplier_3",In Stock,2025-05-12
+PDT054,Electronics,Monitors,311.53,0.23,239.88,2,"Supplier_3, Supplier_4",Limited,2025-05-11
+PDT055,Furniture,Desks,166.47,0.19,134.84,1,Supplier_5,In Stock,2025-05-15
+PDT056,Electronics,Phones,975.37,0.15,829.06,2,"Supplier_2, Supplier_4",Limited,2025-05-14
+PDT057,Stationery,Pens,481.74,0.3,337.22,1,Supplier_3,Out of Stock,2025-05-07
+PDT058,Stationery,Notebooks,469.85,0.11,418.17,2,"Supplier_2, Supplier_1",Limited,2025-05-12
+PDT059,Electronics,Laptops,401.7,0.22,313.33,2,"Supplier_5, Supplier_2",In Stock,2025-05-06
+PDT060,Electronics,Laptops,24.3,0.26,17.98,2,"Supplier_3, Supplier_2",Limited,2025-05-06
+PDT061,Electronics,Phones,160.78,0.26,118.98,1,Supplier_1,Limited,2025-05-09
+PDT062,Electronics,Monitors,262.32,0.16,220.35,1,Supplier_2,In Stock,2025-05-12
+PDT063,Furniture,Desks,185.62,0.04,178.2,2,"Supplier_3, Supplier_1",Out of Stock,2025-05-08
+PDT064,Furniture,Desks,379.41,0.0,379.41,2,"Supplier_4, Supplier_3",Limited,2025-05-09
+PDT065,Furniture,Chairs,461.35,0.06,433.67,2,"Supplier_1, Supplier_4",Out of Stock,2025-05-06
+PDT066,Electronics,Laptops,271.13,0.0,271.13,2,"Supplier_3, Supplier_4",In Stock,2025-05-16
+PDT067,Electronics,Monitors,624.36,0.07,580.65,2,"Supplier_5, Supplier_4",Out of Stock,2025-05-16
+PDT068,Electronics,Laptops,351.49,0.17,291.74,1,Supplier_1,Limited,2025-05-15
+PDT069,Stationery,Markers,362.63,0.2,290.1,1,Supplier_4,Out of Stock,2025-05-05
+PDT070,Stationery,Pens,660.89,0.03,641.06,1,Supplier_3,In Stock,2025-05-11
+PDT071,Stationery,Markers,27.25,0.04,26.16,1,Supplier_1,Out of Stock,2025-05-13
+PDT072,Stationery,Pens,322.59,0.03,312.91,2,"Supplier_3, Supplier_4",Limited,2025-05-07
+PDT073,Furniture,Cabinets,942.82,0.06,886.25,2,"Supplier_1, Supplier_2",In Stock,2025-05-07
+PDT074,Stationery,Pens,202.27,0.28,145.63,1,Supplier_5,In Stock,2025-05-17
+PDT075,Stationery,Notebooks,967.87,0.21,764.62,1,Supplier_3,In Stock,2025-05-07
+PDT076,Furniture,Desks,765.29,0.23,589.27,1,Supplier_1,Limited,2025-05-16
+PDT077,Electronics,Laptops,339.54,0.25,254.66,1,Supplier_3,In Stock,2025-05-16
+PDT078,Furniture,Cabinets,557.66,0.02,546.51,1,Supplier_4,Limited,2025-05-17
+PDT079,Furniture,Desks,841.62,0.22,656.46,1,Supplier_2,Out of Stock,2025-05-17
+PDT080,Furniture,Chairs,731.17,0.29,519.13,1,Supplier_5,Out of Stock,2025-05-11
+PDT081,Furniture,Desks,861.66,0.25,646.25,2,"Supplier_5, Supplier_3",Limited,2025-05-04
+PDT082,Furniture,Cabinets,506.31,0.25,379.73,2,"Supplier_4, Supplier_2",Limited,2025-05-14
+PDT083,Electronics,Monitors,635.88,0.06,597.73,2,"Supplier_4, Supplier_5",Limited,2025-05-08
+PDT084,Electronics,Phones,333.82,0.12,293.76,2,"Supplier_5, Supplier_1",In Stock,2025-05-06
+PDT085,Stationery,Pens,530.4,0.05,503.88,1,Supplier_2,Limited,2025-05-12
+PDT086,Electronics,Monitors,895.15,0.04,859.34,2,"Supplier_3, Supplier_2",Limited,2025-05-04
+PDT087,Furniture,Cabinets,348.32,0.05,330.9,2,"Supplier_3, Supplier_4",Limited,2025-05-06
+PDT088,Furniture,Chairs,148.48,0.08,136.6,2,"Supplier_1, Supplier_2",Limited,2025-05-04
+PDT089,Stationery,Pens,599.91,0.18,491.93,2,"Supplier_4, Supplier_3",Out of Stock,2025-05-13
+PDT090,Furniture,Chairs,670.0,0.19,542.7,2,"Supplier_1, Supplier_5",In Stock,2025-05-16
+PDT091,Furniture,Cabinets,972.54,0.27,709.95,2,"Supplier_1, Supplier_5",Out of Stock,2025-05-11
+PDT092,Electronics,Laptops,525.71,0.23,404.8,1,Supplier_3,Out of Stock,2025-05-04
+PDT093,Electronics,Laptops,227.86,0.2,182.29,1,Supplier_1,Out of Stock,2025-05-05
+PDT094,Furniture,Desks,226.26,0.08,208.16,2,"Supplier_3, Supplier_2",Out of Stock,2025-05-08
+PDT095,Electronics,Phones,72.39,0.08,66.6,2,"Supplier_5, Supplier_1",In Stock,2025-05-17
+PDT096,Electronics,Laptops,414.86,0.19,336.04,1,Supplier_5,Limited,2025-05-10
+PDT097,Stationery,Markers,504.57,0.13,438.98,1,Supplier_2,In Stock,2025-05-10
+PDT098,Furniture,Desks,997.08,0.22,777.72,2,"Supplier_3, Supplier_5",In Stock,2025-05-12
+PDT099,Stationery,Markers,452.31,0.21,357.32,1,Supplier_4,In Stock,2025-05-16
+PDT100,Stationery,Notebooks,193.5,0.24,147.06,1,Supplier_2,In Stock,2025-05-09
