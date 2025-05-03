@@ -1,0 +1,101 @@
+order_placement,customer_name,time_of_order,location,product_id,quantity,payment_method
+2025-04-26 18:30:18.397769,Holly Garza,21:16:27,"North Josephmouth, Texas, Mayotte - 14361",ELEC-LAP-0004,1,Debit Card
+2025-04-25 04:39:59.312418,Christina Daniel,13:18:15,"South Mariamouth, California, Tajikistan - 70122",GROC-BEV-0007,5,Paypal
+2025-04-11 09:54:17.196556,Jennifer Ray,13:54:45,"Lake Mary, Nevada, Azerbaijan - 56926",ELEC-LAP-0002,1,Credit Card
+2025-04-16 12:44:17.713403,Jeff Hernandez,08:51:55,"Derekburgh, Maryland, Afghanistan - 01237",FURN-CHR-0002,5,Paypal
+2025-04-14 16:01:20.812293,Jared Sanchez,13:56:13,"West Dawnton, Minnesota, Montenegro - 86077",ELEC-CAM-0006,1,Debit Card
+2025-04-04 23:51:10.103614,Terry Parker,06:22:04,"South Lori, Oregon, Micronesia - 95699",GROC-VEG-0008,5,Credit Card
+2025-04-30 23:59:22.511366,Charles Matthews,10:32:12,"Port Nicole, Alabama, Lesotho - 62086",GROC-BEV-0009,5,Credit Card
+2025-04-04 05:35:12.961686,Kimberly Thompson,04:13:16,"West Bryan, Nevada, Gambia - 35832",FURN-BED-0007,3,Paypal
+2025-04-10 20:49:12.722753,Emily Perez,22:27:03,"Caitlinland, Florida, Dominica - 92918",ELEC-CAM-0002,3,Debit Card
+2025-04-07 15:00:08.555845,Joel Johnston,20:03:57,"Port Cynthia, Oregon, Cook Islands - 20218",APPR-SHT-0001,4,Paypal
+2025-04-23 19:19:34.572519,Aaron Sanchez,05:29:38,"North Kellytown, New York, Maldives - 10489",FURN-CAB-0004,2,Paypal
+2025-04-21 19:25:43.491810,Dr. Gregory Ruiz,10:02:25,"Davieston, Missouri, American Samoa - 50577",APPR-SHS-0005,3,Debit Card
+2025-04-04 01:13:25.389631,Lisa Cooper,13:18:48,"Port Steven, Arkansas, French Southern Territories - 44688",AUTO-FIL-0005,3,Debit Card
+2025-04-03 21:08:00.631616,Bobby Fuentes,22:02:00,"Jamesbury, New Jersey, Comoros - 52959",APPR-SHT-0010,1,Debit Card
+2025-05-02 01:17:02.535310,John Chapman,11:17:35,"South Travisstad, New York, Bahrain - 49068",APPR-SHT-0009,2,Debit Card
+2025-04-16 19:17:28.293935,Joshua Castro,20:03:06,"South Eric, California, American Samoa - 97578",GROC-VEG-0001,2,Paypal
+2025-04-19 13:25:34.853595,Benjamin Tapia,20:17:48,"South Robertton, North Carolina, Mauritania - 70747",AUTO-BAT-0005,3,Paypal
+2025-04-28 14:35:15.989050,Joshua Williams,00:26:16,"Jimmyview, Georgia, French Guiana - 17765",GROC-BEV-0009,1,Credit Card
+2025-04-10 05:18:55.001052,Cassandra Barber,03:46:56,"Keithfurt, Tennessee, Tuvalu - 87808",AUTO-BAT-0005,5,Debit Card
+2025-04-21 20:40:21.720615,Amber Gregory,05:13:44,"New Sandrafort, Utah, Guadeloupe - 09475",APPR-JKT-0001,3,Credit Card
+2025-04-30 11:05:44.104498,Whitney Ray,01:39:47,"Watkinsshire, Florida, American Samoa - 87413",AUTO-OIL-0002,2,Paypal
+2025-04-19 04:22:32.499102,David Williams,08:02:59,"Hernandezland, South Dakota, Palau - 14821",GROC-BEV-0004,1,Debit Card
+2025-05-03 09:07:40.775762,Ashley Jenkins,22:23:50,"South Robertburgh, Iowa, Fiji - 65293",FURN-CAB-0003,1,Credit Card
+2025-04-05 06:10:10.905060,Sarah Camacho,01:21:13,"Rachelhaven, Texas, Taiwan - 30133",ELEC-SM-0003,2,Credit Card
+2025-04-26 22:05:16.802866,Danielle Chapman,07:24:39,"Williamston, Pennsylvania, Italy - 66934",ELEC-TAB-0001,4,Credit Card
+2025-04-08 03:29:45.498580,Kathleen Nelson,20:40:09,"South Joshua, Utah, Vanuatu - 52121",ELEC-LAP-0003,4,Debit Card
+2025-04-04 14:34:39.007061,Felicia Nelson,22:05:31,"Port Laurastad, California, Cocos (Keeling) Islands - 26126",GROC-BEV-0005,3,Credit Card
+2025-04-07 17:10:07.042459,Brandon Castro,10:53:45,"Hatfieldview, Illinois, Greece - 80112",AUTO-FIL-0003,2,Paypal
+2025-04-20 06:20:02.295870,Mary Ramos,02:58:56,"Alvaradochester, Delaware, Holy See (Vatican City State) - 11625",GROC-SNK-0003,1,Paypal
+2025-05-02 18:13:53.149098,Michael Martin,11:36:44,"North Tammy, Washington, Belize - 50274",FURN-CHR-0007,1,Credit Card
+2025-04-22 20:53:50.142863,Mary Smith,00:43:53,"North Sean, Oregon, Djibouti - 23806",ELEC-CAM-0004,3,Credit Card
+2025-04-30 16:09:02.375671,Keith Rasmussen,16:12:05,"Carterview, New York, Sudan - 06664",APPR-SHS-0003,5,Debit Card
+2025-04-25 13:09:39.074006,Craig Montoya,19:34:33,"Anatown, Georgia, Palau - 58475",GROC-VEG-0003,1,Debit Card
+2025-04-07 08:36:52.671843,Kelly Weaver,09:14:18,"North Luis, Tennessee, Samoa - 56601",ELEC-LAP-0001,3,Debit Card
+2025-05-02 05:01:13.480264,Edward Weber,17:58:32,"Lemouth, Connecticut, Ireland - 67697",APPR-JKT-0003,2,Credit Card
+2025-04-29 10:22:02.278278,Travis Olson,21:41:07,"Ramseyshire, Colorado, Poland - 71488",FURN-BED-0003,3,Credit Card
+2025-04-09 06:27:28.712419,Tammy Hampton,15:51:24,"Estesmouth, Iowa, Kiribati - 91018",AUTO-FIL-0008,4,Credit Card
+2025-04-04 08:51:09.858814,Justin Hawkins,06:45:49,"Port Brianna, Rhode Island, Martinique - 78384",ELEC-CAM-0008,4,Credit Card
+2025-04-29 23:49:45.233637,Anthony Fox,05:45:26,"Lake Cesar, Rhode Island, Saint Martin - 86058",ELEC-CAM-0003,5,Debit Card
+2025-04-25 20:21:01.910768,Nicholas Taylor,07:04:17,"Natashastad, New York, Malawi - 49794",GROC-FRT-0001,1,Paypal
+2025-04-26 22:36:36.247875,Sarah Gray,04:07:46,"Lake Anthony, Maryland, Puerto Rico - 50757",FURN-BED-0003,2,Credit Card
+2025-04-17 08:54:05.613599,Donald Patel,23:59:07,"Tuckerburgh, North Dakota, Papua New Guinea - 03675",GROC-FRT-0004,5,Credit Card
+2025-05-02 22:52:11.280333,Christopher Little,02:51:47,"South Russell, California, Luxembourg - 70123",AUTO-FIL-0004,2,Paypal
+2025-04-05 02:51:35.823012,Lawrence Bailey,02:54:49,"Jessicamouth, North Dakota, Estonia - 03248",ELEC-TAB-0002,3,Debit Card
+2025-04-06 02:34:15.632084,Lucas Henderson,15:09:49,"Troyfort, Florida, Norfolk Island - 66273",AUTO-FIL-0008,4,Credit Card
+2025-04-12 15:43:18.836532,Theresa Zimmerman,06:06:51,"Lake Michael, New York, Norway - 85141",FURN-CAB-0005,4,Debit Card
+2025-04-18 00:40:28.178604,Kristen Pierce,06:24:02,"South Deborah, Tennessee, Libyan Arab Jamahiriya - 84252",FURN-CHR-0009,5,Credit Card
+2025-04-28 01:23:14.574011,Rachael Foster,09:14:20,"New Jasonshire, Wyoming, Equatorial Guinea - 29353",APPR-JNS-0002,4,Paypal
+2025-04-04 10:23:33.646919,Carrie Freeman,18:17:29,"West Brittney, Virginia, Azerbaijan - 94842",FURN-BED-0001,3,Credit Card
+2025-04-11 05:47:27.987276,Alexis Avila,13:37:39,"Port Alexandriamouth, Nevada, Comoros - 33103",APPR-SHT-0009,5,Credit Card
+2025-04-18 07:49:30.498482,Erica Cole,03:36:55,"East Christianchester, Vermont, Sudan - 21399",GROC-FRT-0004,3,Paypal
+2025-04-30 13:06:50.800096,Nicholas Jackson,22:18:18,"Alyssaville, New Hampshire, Qatar - 43486",FURN-CHR-0002,3,Paypal
+2025-04-06 20:28:43.636363,Paige Li,13:53:22,"East Ryanmouth, Utah, Germany - 56507",FURN-BED-0004,5,Credit Card
+2025-04-22 04:05:11.122287,Troy Rodriguez,18:10:36,"Lake Billyside, West Virginia, Peru - 48545",GROC-FRT-0001,2,Credit Card
+2025-04-28 20:16:26.673239,Perry Long,16:55:41,"Williamsland, Tennessee, Norfolk Island - 04273",APPR-SHS-0002,1,Paypal
+2025-04-08 16:19:44.023175,Linda Gill,02:30:17,"North Brandon, Indiana, Singapore - 52061",ELEC-CAM-0003,4,Debit Card
+2025-04-11 19:44:22.137605,Caroline Graham,18:52:47,"New Dominiquemouth, Michigan, Saint Kitts and Nevis - 14393",AUTO-FIL-0006,4,Paypal
+2025-04-24 07:08:36.385033,Kevin Andrews,07:27:23,"Curryport, Wyoming, Philippines - 86170",APPR-SHS-0008,2,Credit Card
+2025-04-17 00:54:04.785872,Vicki Lang,00:24:49,"Ryanside, Oklahoma, Denmark - 33674",APPR-SHT-0005,2,Paypal
+2025-05-03 05:28:13.051411,Tina Bell,10:36:45,"North Nicholaston, Tennessee, Iraq - 59662",APPR-SHS-0007,1,Debit Card
+2025-05-01 08:03:50.359177,Brett Campos,19:52:05,"Walkerborough, Delaware, Estonia - 39795",AUTO-FIL-0009,2,Paypal
+2025-04-27 15:59:45.163734,Ryan Robinson,02:53:38,"Walkerberg, Washington, Niger - 44271",APPR-JNS-0001,1,Paypal
+2025-04-07 00:03:45.542616,Jonathan Hill,23:27:13,"Christopherfort, Wisconsin, Cape Verde - 83781",AUTO-FIL-0003,3,Credit Card
+2025-04-22 07:48:39.600993,Sarah Lee DDS,09:46:37,"West Jerryview, Texas, Cambodia - 23873",APPR-SHS-0001,4,Paypal
+2025-04-13 11:49:44.144876,Jane Vargas,17:55:43,"Lake Joseph, Virginia, Marshall Islands - 26536",ELEC-CAM-0004,4,Credit Card
+2025-04-19 01:14:38.032665,Christopher Fisher,10:33:13,"Lake Kristine, Virginia, Korea - 25316",FURN-CHR-0006,2,Debit Card
+2025-04-04 08:25:14.137678,Mary Simon,09:25:36,"East George, Utah, Taiwan - 54534",ELEC-LAP-0003,5,Paypal
+2025-04-08 05:36:09.933578,Kimberly Morris,00:59:18,"New Jeremyside, Georgia, Pakistan - 36785",GROC-FRT-0006,2,Credit Card
+2025-04-28 05:44:12.233387,Jonathan Rogers,04:51:37,"West Billy, Kentucky, Nepal - 10041",FURN-BED-0004,2,Paypal
+2025-04-29 07:20:27.912981,Christopher Moore II,02:56:13,"North Brandonmouth, Montana, Cambodia - 72884",APPR-JNS-0002,3,Credit Card
+2025-04-26 11:26:41.979893,David Armstrong,07:34:24,"New Manuel, Mississippi, Myanmar - 64230",AUTO-FIL-0008,1,Credit Card
+2025-04-27 10:58:44.941096,Katherine Reynolds,20:21:54,"East Michellefort, New Hampshire, Peru - 23834",APPR-SHS-0003,4,Paypal
+2025-04-25 05:36:42.536989,Matthew Hoffman,17:38:50,"South Michele, Michigan, Gabon - 24623",AUTO-FIL-0002,3,Credit Card
+2025-05-02 15:57:01.501974,Katherine Fields,06:55:47,"Miguelstad, Ohio, Myanmar - 27680",APPR-JKT-0002,1,Debit Card
+2025-04-25 00:04:59.110414,Stephanie Perez,05:01:43,"East Michaelburgh, North Dakota, Kuwait - 48049",ELEC-CAM-0008,3,Paypal
+2025-04-24 10:59:32.423071,Thomas Johnson,16:27:03,"Thomastown, Tennessee, Australia - 10058",AUTO-TIR-0004,5,Paypal
+2025-04-16 08:45:21.603468,Jeffrey Odonnell,18:46:53,"Smithburgh, Michigan, Pakistan - 31845",APPR-JNS-0001,1,Credit Card
+2025-04-14 17:49:47.882919,Caroline Singleton,18:07:15,"North Corey, Michigan, Chile - 77106",ELEC-SM-0007,3,Debit Card
+2025-04-11 17:45:59.426647,Nicholas Raymond,23:08:47,"West Kimberlyville, Kansas, United Kingdom - 46920",GROC-BEV-0006,3,Credit Card
+2025-04-21 10:57:19.669094,Lauren Roy,18:54:50,"Maryport, New Hampshire, Singapore - 53962",GROC-VEG-0008,1,Debit Card
+2025-04-10 17:06:57.036800,Caitlin Davis,01:40:13,"Websterside, Illinois, Grenada - 70194",APPR-JKT-0001,2,Credit Card
+2025-04-20 10:07:12.701336,Madison Klein,01:08:35,"Lake Ronaldfurt, Vermont, Albania - 82573",ELEC-LAP-0007,1,Paypal
+2025-04-11 12:34:25.629047,Dr. Felicia Parker DDS,04:04:55,"Lake James, Alabama, Saint Vincent and the Grenadines - 09753",ELEC-TAB-0002,1,Credit Card
+2025-04-05 11:08:19.717434,James Lynch,02:53:37,"Melissafort, Ohio, Belgium - 80798",ELEC-CAM-0009,2,Credit Card
+2025-04-10 12:19:16.980443,Mercedes Lee,04:47:07,"North Ashley, North Dakota, United Arab Emirates - 42195",FURN-CAB-0004,4,Debit Card
+2025-05-02 12:09:12.375799,John Gibson,20:50:53,"Delgadomouth, Maine, Malta - 34577",ELEC-CAM-0009,1,Credit Card
+2025-04-24 08:02:32.809273,Jeffrey Willis,08:43:04,"Elizabethville, New Mexico, Vanuatu - 92896",GROC-FRT-0005,2,Debit Card
+2025-04-27 05:58:12.391776,Marcus Rojas,20:50:04,"Robinsonside, South Dakota, Ethiopia - 97054",AUTO-FIL-0004,1,Credit Card
+2025-04-21 14:54:07.081769,Patrick Young,07:02:56,"East Anthonyview, Pennsylvania, American Samoa - 29994",FURN-CHR-0006,3,Paypal
+2025-04-27 13:49:05.415897,Jeffrey Fleming,19:44:38,"Sheilastad, Louisiana, Australia - 74381",FURN-CHR-0003,3,Credit Card
+2025-04-19 00:20:29.845891,Angela Smith,17:24:11,"Port Pedro, Wyoming, Tonga - 18132",APPR-SHS-0001,2,Paypal
+2025-05-02 06:02:26.882653,Richard Raymond DVM,02:36:32,"Clarkshire, New Jersey, British Virgin Islands - 66069",APPR-SHS-0003,3,Credit Card
+2025-05-02 13:34:33.264467,Glenn Sanchez,12:52:30,"Michaelside, Missouri, Qatar - 73507",FURN-CHR-0003,3,Debit Card
+2025-04-17 10:21:42.498192,Brenda Clark,21:56:42,"Kramerfurt, North Carolina, Sudan - 98305",ELEC-SM-0004,3,Credit Card
+2025-04-20 04:29:41.317422,Stephanie Baker,08:37:21,"Meyerstown, Washington, Gabon - 05108",APPR-SHT-0011,3,Debit Card
+2025-04-23 16:22:16.875643,Michael Porter,09:26:33,"Davidberg, North Carolina, Solomon Islands - 89855",ELEC-SM-0009,1,Credit Card
+2025-04-18 05:56:21.634702,Kimberly Martin,20:04:03,"New Angela, Oregon, Tuvalu - 50109",AUTO-TIR-0003,3,Credit Card
+2025-04-20 01:30:42.015751,Miss Jennifer Nash,05:37:45,"North Christopher, Illinois, Botswana - 62664",ELEC-CAM-0005,2,Credit Card
+2025-04-07 16:02:44.235415,Matthew Strong,15:46:58,"North John, Wyoming, Niue - 61709",FURN-DSK-0005,3,Credit Card
+2025-04-30 06:08:34.441113,Stacy Medina,15:24:02,"Lake Nicolemouth, Michigan, Greenland - 86504",AUTO-OIL-0001,1,Debit Card

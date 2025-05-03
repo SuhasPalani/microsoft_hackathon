@@ -1,0 +1,151 @@
+product_id,product_category,product_subcategory,price,listprice,discountprice,supplier,product_availability,eta
+ELEC-LAP-0001,Electronics,Laptops,$493.64,$514.21,$493.64,Supplier_10,Out of Stock,2025-05-04
+GROC-FRT-0001,Groceries,Fruits,$554.72,$739.63,$554.72,"Supplier_1, Supplier_2",Limited,2025-05-08
+GROC-FRT-0002,Groceries,Fruits,$955.13,"$1,326.57",$955.13,"Supplier_4, Supplier_5",Out of Stock,2025-05-15
+FURN-DSK-0001,Furniture,Desks,$430.09,$537.61,$430.09,Supplier_6,Limited,2025-05-06
+GROC-BEV-0001,Groceries,Beverages,"$1,007.08","$1,144.41","$1,007.08",Supplier_3,Limited,2025-05-10
+FURN-CHR-0001,Furniture,Chairs,"$1,137.51","$1,558.23","$1,137.51",Supplier_10,In Stock,2025-05-07
+GROC-BEV-0002,Groceries,Beverages,$336.01,$480.01,$336.01,Supplier_6,Out of Stock,2025-05-05
+APPR-SHT-0001,Apparel,Shirts,"$1,160.53","$1,196.42","$1,160.53",Supplier_10,In Stock,2025-05-04
+GROC-VEG-0001,Groceries,Vegetables,"$1,578.70","$1,594.65","$1,578.70","Supplier_8, Supplier_6",In Stock,2025-05-13
+FURN-BED-0001,Furniture,Beds,$289.49,$357.40,$289.49,Supplier_7,In Stock,2025-05-15
+FURN-CAB-0001,Furniture,Cabinets,"$1,570.06","$1,635.48","$1,570.06",Supplier_8,Limited,2025-05-16
+ELEC-SM-0001,Electronics,Smartphones,"$1,391.14","$1,717.46","$1,391.14","Supplier_8, Supplier_1",Out of Stock,2025-05-14
+GROC-FRT-0003,Groceries,Fruits,"$1,149.27","$1,336.36","$1,149.27",Supplier_9,Limited,2025-05-15
+ELEC-SM-0002,Electronics,Smartphones,$363.10,$442.81,$363.10,"Supplier_1, Supplier_5",Limited,2025-05-12
+GROC-FRT-0004,Groceries,Fruits,"$1,392.07","$1,933.43","$1,392.07","Supplier_1, Supplier_6",Out of Stock,2025-05-17
+GROC-BEV-0003,Groceries,Beverages,$357.67,$411.12,$357.67,"Supplier_3, Supplier_10",In Stock,2025-05-04
+APPR-JNS-0001,Apparel,Jeans,$459.48,$534.28,$459.48,Supplier_7,In Stock,2025-05-04
+GROC-SNK-0001,Groceries,Snacks,"$1,425.22","$1,804.08","$1,425.22",Supplier_6,In Stock,2025-05-04
+FURN-CAB-0002,Furniture,Cabinets,$797.14,$857.14,$797.14,"Supplier_3, Supplier_2",Out of Stock,2025-05-04
+ELEC-SM-0003,Electronics,Smartphones,"$1,475.56","$1,505.67","$1,475.56",Supplier_3,Limited,2025-05-13
+GROC-BEV-0004,Groceries,Beverages,$501.70,$533.72,$501.70,Supplier_8,Out of Stock,2025-05-11
+GROC-SNK-0002,Groceries,Snacks,"$1,405.88","$1,405.88","$1,405.88",Supplier_7,Limited,2025-05-12
+ELEC-LAP-0002,Electronics,Laptops,"$1,323.25","$1,556.76","$1,323.25",Supplier_7,Limited,2025-05-06
+ELEC-TAB-0001,Electronics,Tablets,"$1,659.04","$1,975.05","$1,659.04",Supplier_6,Out of Stock,2025-05-08
+GROC-BEV-0005,Groceries,Beverages,$787.19,"$1,078.34",$787.19,"Supplier_6, Supplier_10",Out of Stock,2025-05-05
+ELEC-LAP-0003,Electronics,Laptops,"$1,804.80","$1,880.00","$1,804.80","Supplier_1, Supplier_4",In Stock,2025-05-13
+FURN-CHR-0002,Furniture,Chairs,$50.51,$70.15,$50.51,Supplier_9,Out of Stock,2025-05-09
+ELEC-LAP-0004,Electronics,Laptops,"$1,077.98","$1,382.03","$1,077.98",Supplier_9,Out of Stock,2025-05-06
+FURN-CHR-0003,Furniture,Chairs,$382.85,$478.56,$382.85,Supplier_8,Out of Stock,2025-05-16
+APPR-JNS-0002,Apparel,Jeans,$545.89,$634.76,$545.89,Supplier_8,In Stock,2025-05-14
+FURN-DSK-0002,Furniture,Desks,"$1,322.80","$1,377.92","$1,322.80","Supplier_2, Supplier_3",In Stock,2025-05-12
+AUTO-BAT-0001,Automotive,Batteries,"$1,365.62","$1,796.87","$1,365.62",Supplier_5,In Stock,2025-05-06
+GROC-BEV-0006,Groceries,Beverages,"$1,119.67","$1,417.30","$1,119.67",Supplier_6,Limited,2025-05-12
+ELEC-SM-0004,Electronics,Smartphones,"$1,206.10","$1,652.19","$1,206.10",Supplier_7,Out of Stock,2025-05-14
+ELEC-SM-0005,Electronics,Smartphones,$253.59,$333.67,$253.59,Supplier_6,In Stock,2025-05-05
+AUTO-FIL-0001,Automotive,Filters,$877.69,$904.83,$877.69,Supplier_1,Limited,2025-05-08
+GROC-BEV-0007,Groceries,Beverages,$413.55,$558.85,$413.55,"Supplier_10, Supplier_4",In Stock,2025-05-11
+APPR-SHS-0001,Apparel,Shoes,$959.30,"$1,090.11",$959.30,"Supplier_9, Supplier_6",Limited,2025-05-12
+FURN-DSK-0003,Furniture,Desks,$747.59,$786.94,$747.59,"Supplier_8, Supplier_9",In Stock,2025-05-05
+AUTO-BAT-0002,Automotive,Batteries,"$1,746.23","$1,781.87","$1,746.23",Supplier_10,Limited,2025-05-15
+ELEC-CAM-0001,Electronics,Cameras,"$1,615.97","$1,970.70","$1,615.97","Supplier_6, Supplier_2",In Stock,2025-05-05
+FURN-CHR-0004,Furniture,Chairs,$418.32,$597.60,$418.32,"Supplier_6, Supplier_4",Limited,2025-05-07
+FURN-BED-0002,Furniture,Beds,$662.43,$752.76,$662.43,Supplier_6,In Stock,2025-05-05
+FURN-BED-0003,Furniture,Beds,"$1,275.81","$1,575.08","$1,275.81",Supplier_9,Out of Stock,2025-05-17
+ELEC-LAP-0005,Electronics,Laptops,$505.91,$657.02,$505.91,Supplier_8,Out of Stock,2025-05-14
+ELEC-CAM-0002,Electronics,Cameras,$843.62,$937.35,$843.62,"Supplier_2, Supplier_10",Out of Stock,2025-05-08
+ELEC-LAP-0006,Electronics,Laptops,"$1,646.42","$1,733.07","$1,646.42",Supplier_8,In Stock,2025-05-12
+FURN-CHR-0005,Furniture,Chairs,$485.94,$647.92,$485.94,"Supplier_6, Supplier_9",Limited,2025-05-07
+ELEC-CAM-0003,Electronics,Cameras,"$1,775.69","$1,849.68","$1,775.69","Supplier_6, Supplier_10",Limited,2025-05-07
+APPR-SHT-0002,Apparel,Shirts,$395.99,$399.99,$395.99,"Supplier_5, Supplier_2",In Stock,2025-05-10
+FURN-CHR-0006,Furniture,Chairs,$150.69,$153.77,$150.69,Supplier_2,Out of Stock,2025-05-08
+FURN-BED-0004,Furniture,Beds,$647.14,$911.46,$647.14,"Supplier_10, Supplier_2",Limited,2025-05-06
+ELEC-SM-0006,Electronics,Smartphones,$979.42,"$1,180.03",$979.42,"Supplier_5, Supplier_7",Limited,2025-05-12
+APPR-SHT-0003,Apparel,Shirts,"$1,366.25","$1,535.11","$1,366.25","Supplier_9, Supplier_4",Out of Stock,2025-05-09
+APPR-SHS-0002,Apparel,Shoes,$390.74,$528.03,$390.74,Supplier_5,In Stock,2025-05-15
+FURN-CAB-0003,Furniture,Cabinets,"$1,337.57","$1,832.29","$1,337.57",Supplier_7,In Stock,2025-05-06
+GROC-VEG-0002,Groceries,Vegetables,$330.01,$407.42,$330.01,"Supplier_7, Supplier_3",Out of Stock,2025-05-13
+AUTO-TIR-0001,Automotive,Tires,"$1,953.43","$1,973.16","$1,953.43","Supplier_8, Supplier_6",In Stock,2025-05-10
+AUTO-FIL-0002,Automotive,Filters,$922.24,"$1,097.90",$922.24,Supplier_3,In Stock,2025-05-14
+GROC-FRT-0005,Groceries,Fruits,"$1,046.64","$1,414.38","$1,046.64",Supplier_10,Out of Stock,2025-05-15
+AUTO-FIL-0003,Automotive,Filters,$680.63,$895.57,$680.63,"Supplier_2, Supplier_10",Out of Stock,2025-05-07
+GROC-SNK-0003,Groceries,Snacks,$408.07,$408.07,$408.07,"Supplier_6, Supplier_7",Out of Stock,2025-05-17
+AUTO-BAT-0003,Automotive,Batteries,$701.60,"$1,002.28",$701.60,"Supplier_8, Supplier_10",Limited,2025-05-07
+AUTO-OIL-0001,Automotive,Oil,$649.05,$737.56,$649.05,"Supplier_3, Supplier_9",Out of Stock,2025-05-11
+APPR-SHT-0004,Apparel,Shirts,$526.50,$642.07,$526.50,"Supplier_7, Supplier_9",In Stock,2025-05-12
+APPR-SHS-0003,Apparel,Shoes,$436.33,$501.53,$436.33,"Supplier_3, Supplier_2",Limited,2025-05-07
+ELEC-CAM-0004,Electronics,Cameras,$181.78,$199.76,$181.78,Supplier_2,Limited,2025-05-11
+GROC-SNK-0004,Groceries,Snacks,"$1,399.85","$1,866.47","$1,399.85","Supplier_4, Supplier_10",Out of Stock,2025-05-07
+ELEC-LAP-0007,Electronics,Laptops,$228.88,$257.17,$228.88,Supplier_2,Limited,2025-05-09
+GROC-VEG-0003,Groceries,Vegetables,$662.29,$712.14,$662.29,"Supplier_5, Supplier_6",Limited,2025-05-04
+GROC-SNK-0005,Groceries,Snacks,$758.10,"$1,083.00",$758.10,"Supplier_8, Supplier_7",Out of Stock,2025-05-17
+AUTO-OIL-0002,Automotive,Oil,"$1,570.51","$1,869.65","$1,570.51",Supplier_5,Limited,2025-05-13
+FURN-CHR-0007,Furniture,Chairs,$331.68,$454.35,$331.68,Supplier_3,In Stock,2025-05-12
+APPR-SHS-0004,Apparel,Shoes,$185.94,$229.55,$185.94,"Supplier_7, Supplier_1",Out of Stock,2025-05-17
+ELEC-CAM-0005,Electronics,Cameras,$504.93,$673.24,$504.93,Supplier_5,Limited,2025-05-16
+APPR-SHS-0005,Apparel,Shoes,"$1,111.78","$1,339.50","$1,111.78",Supplier_5,Out of Stock,2025-05-11
+APPR-JKT-0001,Apparel,Jackets,$572.79,$698.52,$572.79,Supplier_4,Out of Stock,2025-05-10
+APPR-SHT-0005,Apparel,Shirts,$867.24,"$1,044.87",$867.24,"Supplier_1, Supplier_3",Out of Stock,2025-05-06
+FURN-BED-0005,Furniture,Beds,"$1,260.07","$1,750.10","$1,260.07",Supplier_4,Limited,2025-05-05
+ELEC-LAP-0008,Electronics,Laptops,$188.71,$224.65,$188.71,Supplier_5,Out of Stock,2025-05-10
+APPR-SHS-0006,Apparel,Shoes,"$1,060.31","$1,116.12","$1,060.31",Supplier_10,Limited,2025-05-06
+APPR-JKT-0002,Apparel,Jackets,"$1,163.29","$1,615.68","$1,163.29",Supplier_3,Out of Stock,2025-05-14
+FURN-BED-0006,Furniture,Beds,$717.85,$983.35,$717.85,Supplier_2,Out of Stock,2025-05-10
+AUTO-FIL-0004,Automotive,Filters,"$1,246.55","$1,466.53","$1,246.55","Supplier_3, Supplier_2",Out of Stock,2025-05-07
+GROC-VEG-0004,Groceries,Vegetables,"$1,047.65","$1,114.52","$1,047.65","Supplier_10, Supplier_6",Limited,2025-05-17
+ELEC-SM-0007,Electronics,Smartphones,$524.44,$552.04,$524.44,"Supplier_4, Supplier_2",Out of Stock,2025-05-17
+GROC-VEG-0005,Groceries,Vegetables,$901.86,"$1,202.48",$901.86,"Supplier_6, Supplier_2",In Stock,2025-05-04
+GROC-VEG-0006,Groceries,Vegetables,$430.61,$439.40,$430.61,"Supplier_4, Supplier_6",Limited,2025-05-06
+ELEC-TAB-0002,Electronics,Tablets,"$1,581.06","$1,928.12","$1,581.06",Supplier_5,Limited,2025-05-13
+ELEC-LAP-0009,Electronics,Laptops,"$1,173.94","$1,222.85","$1,173.94",Supplier_3,Limited,2025-05-11
+APPR-SHT-0006,Apparel,Shirts,$967.78,"$1,018.72",$967.78,"Supplier_6, Supplier_1",Limited,2025-05-06
+APPR-JNS-0003,Apparel,Jeans,"$1,640.45","$1,843.20","$1,640.45",Supplier_7,In Stock,2025-05-09
+AUTO-TIR-0002,Automotive,Tires,$608.05,$810.73,$608.05,Supplier_1,In Stock,2025-05-10
+ELEC-CAM-0006,Electronics,Cameras,$626.81,$746.20,$626.81,Supplier_6,In Stock,2025-05-04
+APPR-SHT-0007,Apparel,Shirts,$120.15,$143.03,$120.15,"Supplier_3, Supplier_7",In Stock,2025-05-16
+AUTO-OIL-0003,Automotive,Oil,$827.18,"$1,133.13",$827.18,Supplier_1,Out of Stock,2025-05-07
+GROC-SNK-0006,Groceries,Snacks,"$1,032.81","$1,075.84","$1,032.81","Supplier_5, Supplier_7",Out of Stock,2025-05-05
+FURN-CAB-0004,Furniture,Cabinets,"$1,497.71","$1,664.12","$1,497.71",Supplier_8,Out of Stock,2025-05-15
+AUTO-FIL-0005,Automotive,Filters,$282.10,$352.63,$282.10,Supplier_3,Limited,2025-05-16
+AUTO-TIR-0003,Automotive,Tires,"$1,035.24","$1,398.97","$1,035.24","Supplier_9, Supplier_2",Limited,2025-05-08
+GROC-BEV-0008,Groceries,Beverages,$618.23,$824.31,$618.23,"Supplier_2, Supplier_10",Out of Stock,2025-05-12
+APPR-SHS-0007,Apparel,Shoes,$755.58,$994.19,$755.58,Supplier_9,In Stock,2025-05-10
+APPR-SHS-0008,Apparel,Shoes,$51.01,$54.27,$51.01,"Supplier_4, Supplier_2",Limited,2025-05-08
+GROC-VEG-0007,Groceries,Vegetables,$55.35,$74.80,$55.35,"Supplier_6, Supplier_8",In Stock,2025-05-13
+FURN-CHR-0008,Furniture,Chairs,"$1,458.88","$1,945.17","$1,458.88","Supplier_2, Supplier_7",Out of Stock,2025-05-06
+ELEC-CAM-0007,Electronics,Cameras,"$1,346.23","$1,621.96","$1,346.23",Supplier_8,Out of Stock,2025-05-15
+APPR-JNS-0004,Apparel,Jeans,"$1,204.32","$1,204.32","$1,204.32",Supplier_6,Out of Stock,2025-05-14
+FURN-DSK-0004,Furniture,Desks,$242.26,$257.72,$242.26,"Supplier_4, Supplier_7",Limited,2025-05-06
+APPR-SHS-0009,Apparel,Shoes,$564.25,$613.31,$564.25,"Supplier_7, Supplier_9",Out of Stock,2025-05-05
+AUTO-FIL-0006,Automotive,Filters,$771.81,$779.61,$771.81,Supplier_2,Limited,2025-05-06
+AUTO-OIL-0004,Automotive,Oil,"$1,441.34","$1,947.76","$1,441.34",Supplier_3,Out of Stock,2025-05-17
+GROC-BEV-0009,Groceries,Beverages,$949.25,"$1,300.34",$949.25,Supplier_7,In Stock,2025-05-12
+GROC-FRT-0006,Groceries,Fruits,"$1,504.54","$1,635.37","$1,504.54",Supplier_8,Out of Stock,2025-05-11
+APPR-JKT-0003,Apparel,Jackets,"$1,414.27","$1,428.56","$1,414.27",Supplier_3,Out of Stock,2025-05-14
+APPR-SHS-0010,Apparel,Shoes,"$1,435.86","$1,669.61","$1,435.86","Supplier_6, Supplier_4",Limited,2025-05-08
+FURN-BED-0007,Furniture,Beds,$484.75,$570.30,$484.75,"Supplier_9, Supplier_4",In Stock,2025-05-05
+FURN-DSK-0005,Furniture,Desks,$274.19,$338.51,$274.19,Supplier_2,In Stock,2025-05-08
+AUTO-OIL-0005,Automotive,Oil,"$1,193.99","$1,421.42","$1,193.99",Supplier_7,Out of Stock,2025-05-06
+AUTO-OIL-0006,Automotive,Oil,$757.21,"$1,023.25",$757.21,"Supplier_4, Supplier_8",Out of Stock,2025-05-16
+APPR-SHS-0011,Apparel,Shoes,$218.23,$250.84,$218.23,"Supplier_8, Supplier_2",Limited,2025-05-11
+APPR-SHT-0008,Apparel,Shirts,"$1,173.19","$1,430.72","$1,173.19","Supplier_7, Supplier_6",Out of Stock,2025-05-05
+FURN-CAB-0005,Furniture,Cabinets,$181.83,$191.40,$181.83,Supplier_6,In Stock,2025-05-10
+APPR-JKT-0004,Apparel,Jackets,"$1,766.89","$1,821.54","$1,766.89",Supplier_2,Limited,2025-05-07
+GROC-SNK-0007,Groceries,Snacks,$679.91,$799.89,$679.91,Supplier_4,In Stock,2025-05-13
+AUTO-BAT-0004,Automotive,Batteries,"$1,818.82","$1,976.98","$1,818.82",Supplier_10,In Stock,2025-05-11
+APPR-SHT-0009,Apparel,Shirts,$838.60,"$1,048.25",$838.60,"Supplier_6, Supplier_8",In Stock,2025-05-09
+APPR-JNS-0005,Apparel,Jeans,$502.72,$688.66,$502.72,Supplier_1,Limited,2025-05-15
+AUTO-FIL-0007,Automotive,Filters,$848.94,"$1,010.64",$848.94,Supplier_1,In Stock,2025-05-07
+GROC-BEV-0010,Groceries,Beverages,"$1,549.60","$1,581.22","$1,549.60","Supplier_10, Supplier_6",Out of Stock,2025-05-09
+FURN-DSK-0006,Furniture,Desks,$117.86,$122.77,$117.86,Supplier_2,Out of Stock,2025-05-11
+APPR-SHT-0010,Apparel,Shirts,"$1,275.61","$1,614.70","$1,275.61","Supplier_5, Supplier_4",In Stock,2025-05-15
+ELEC-SM-0008,Electronics,Smartphones,"$1,509.25","$1,555.93","$1,509.25",Supplier_4,Out of Stock,2025-05-06
+GROC-VEG-0008,Groceries,Vegetables,$689.03,$840.28,$689.03,Supplier_2,Limited,2025-05-13
+GROC-SNK-0008,Groceries,Snacks,"$1,065.76","$1,440.22","$1,065.76","Supplier_9, Supplier_10",Out of Stock,2025-05-16
+FURN-DSK-0007,Furniture,Desks,$938.34,"$1,203.00",$938.34,"Supplier_4, Supplier_8",In Stock,2025-05-07
+ELEC-SM-0009,Electronics,Smartphones,"$1,100.54","$1,467.39","$1,100.54","Supplier_2, Supplier_7",Out of Stock,2025-05-07
+AUTO-BAT-0005,Automotive,Batteries,$305.29,$328.27,$305.29,Supplier_6,Out of Stock,2025-05-11
+AUTO-FIL-0008,Automotive,Filters,$856.33,$951.48,$856.33,Supplier_1,In Stock,2025-05-11
+ELEC-CAM-0008,Electronics,Cameras,$108.09,$152.24,$108.09,Supplier_3,In Stock,2025-05-17
+ELEC-CAM-0009,Electronics,Cameras,$122.44,$153.05,$122.44,Supplier_1,In Stock,2025-05-09
+ELEC-LAP-0010,Electronics,Laptops,$460.43,$554.74,$460.43,Supplier_4,In Stock,2025-05-11
+AUTO-BAT-0006,Automotive,Batteries,"$1,738.28","$1,773.76","$1,738.28",Supplier_6,Out of Stock,2025-05-13
+APPR-SHT-0011,Apparel,Shirts,"$1,331.58","$1,358.75","$1,331.58","Supplier_1, Supplier_3",In Stock,2025-05-14
+AUTO-FIL-0009,Automotive,Filters,$796.77,"$1,048.38",$796.77,Supplier_7,In Stock,2025-05-15
+FURN-DSK-0008,Furniture,Desks,"$1,440.92","$1,566.22","$1,440.92",Supplier_7,Limited,2025-05-13
+AUTO-TIR-0004,Automotive,Tires,$514.26,$524.76,$514.26,Supplier_2,Out of Stock,2025-05-04
+FURN-CHR-0009,Furniture,Chairs,$627.34,$847.75,$627.34,Supplier_1,In Stock,2025-05-17
+ELEC-TAB-0003,Electronics,Tablets,$720.27,$867.79,$720.27,"Supplier_4, Supplier_3",Out of Stock,2025-05-10
+GROC-VEG-0009,Groceries,Vegetables,"$1,520.52","$1,949.39","$1,520.52",Supplier_10,Out of Stock,2025-05-15
+AUTO-FIL-0010,Automotive,Filters,$760.99,$776.52,$760.99,"Supplier_8, Supplier_2",Limited,2025-05-11
