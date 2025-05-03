@@ -1,0 +1,10 @@
+openai 
+langchain 
+pandas 
+faiss-cpu
+python-dotenv
+pathway
+langchain_openai
+flask 
+apscheduler 
+pymongo
